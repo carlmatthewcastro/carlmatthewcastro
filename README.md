@@ -7,13 +7,13 @@
   
 ---
 ## 🎯 Goals  
-- Improve my skills in **C#, Python, and Flask**  
+- Improve my skills in **C#, Python, and Java**  
 - Build real-world projects to strengthen my portfolio  
 - Learn more about **databases (SQL)** and **full-stack development**  
 
 ---
 ## 🛠 Skills  
-- Beginner in **Python**, **C#**, **SQL**, and **Flask**  
+- Beginner in **Python**, **C#**, **SQL**, and **Java**  
 - Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
 - Always eager to explore new technologies
   
