@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Carl Matthew T. Castro
 
-- 🎂 Age: *21*  
-- 🎓 Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
-- 📚 Program: **Bachelor of Science in Information Technology (BSIT)**  
-- 💡 Interested in **Cybersecurity** and **Software Development**
+🎂 Age: *21*  
+🎓 Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
+📚 Program: **Bachelor of Science in Information Technology (BSIT)**  
+💡 Interested in **Cybersecurity** and **Software Development**
   
 ---
 ## 🎯 Goals  
