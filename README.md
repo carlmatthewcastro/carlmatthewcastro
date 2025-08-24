@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Carl Matthew T. Castro
 ---
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎂 Age: *21*  
 🎓 Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
