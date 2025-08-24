@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Carl Matthew T. Castro
 
 - 🧑 Name: **Carl Matthew T. Castro**  
-- 🎂 Age: *21*  
+- 🎂 Age: *21 Years old*  
 - 🎓 Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
 - 📚 Program: **Bachelor of Science in Information Technology (BSIT)**  
 - 💡 Interested in **Cybersecurity** and **Software Development**  
@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email:ymkze.xviii@gmail.com 
+- 📧 Email: ymkze.xviii@gmail.com 
 - 🐙 GitHub: carlmatthewcastro(https://github.com/carlmatthewcastro)  
 
 ---
