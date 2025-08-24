@@ -34,7 +34,7 @@
 
 ## 📫 Contact Me  
 - 📧 Email: **ymkze.xviii@gmail.com**  
-- 🐙 GitHub: [carlmatthewcastro](https://github.com/carlmatthewcastro)  
+- 🐙 GitHub: Carl Matthew T. Castro **(https://github.com/carlmatthewcastro)**
 
 ---
 
