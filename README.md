@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Carl Matthew T. Castro
 
-<!--
-**carlmatthewcastro/carlmatthewcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑 Name: **Carl Matthew T. Castro**  
+- 🎂 Age: *21*  
+- 🎓 Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
+- 📚 Program: **Bachelor of Science in Information Technology (BSIT)**  
+- 💡 Interested in **Cybersecurity** and **Software Development**  
+---
 
-Here are some ideas to get you started:
+## 🎯 Goals  
+- Improve my skills in **C#, Python, and Flask**  
+- Build real-world projects to strengthen my portfolio  
+- Learn more about **databases (SQL)** and **full-stack development**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills  
+- Beginner in **Python**, **C#**, **SQL**, and **Flask**  
+- Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
+- Always eager to explore new technologies  
+
+---
+
+## 📫 Contact Me  
+- 📧 Email:ymkze.xviii@gmail.com 
+- 🐙 GitHub: carlmatthewcastro(https://github.com/carlmatthewcastro)  
+
+---
+
+⭐ *“Code, Learn, Improve, Repeat.”*  
