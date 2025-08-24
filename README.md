@@ -15,8 +15,14 @@
 ## 🛠 Skills  
 - Beginner in **Python**, **C#**, **SQL**, and **Flask**  
 - Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
-- Always eager to explore new technologies  
-
+- Always eager to explore new technologies
+  
+--- 
+## 📌 Current Projects  
+- 📖 Learning **Git** and **GitHub** for version control  
+- 💻 Developing **practice projects** in Python and C#  
+- 🛠 Learning **Visual Studio Code** for software development
+  
 ---
 ## 📫 Contact Me  
 - 📧 Email: ymkze.xviii@gmail.com 
