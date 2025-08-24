@@ -26,7 +26,7 @@
 ---
 ## 📫 Contact Me  
 - 📧 Email: ymkze.xviii@gmail.com 
-- 🐙 GitHub: Carl Matthew T. Castro(https://github.com/carlmatthewcastro)  
+- 🐙 GitHub: Carl Matthew T. Castro (https://github.com/carlmatthewcastro)  
 
 ---
 ⭐ *“Code, Learn, Improve, Repeat.”*  
