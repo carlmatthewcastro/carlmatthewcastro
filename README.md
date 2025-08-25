@@ -28,7 +28,7 @@
 ## 📌 Current Projects  
 - 📖 Learning **Git** and **GitHub** for version control  
 - 💻 Developing **practice projects** in Python and C#  
-- 🛠 Exploring **Visual Studio Code** for software development  
+- 🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
 
 ---
 
