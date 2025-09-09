@@ -28,8 +28,9 @@
 ## 📌 Current Projects  
 📖 Learning **Git** and **GitHub** for version control  
 💻 Developing **practice projects** in Python and C#  
+📲 Learning **Android Studio** for mobile app development  
+🗄  Practicing **MySQL Workbench** for database design and queries  
 🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
-
 ---
 
 ## 🛠 Languages & Tools  
