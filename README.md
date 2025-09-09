@@ -75,17 +75,13 @@
 
 ### 🔥 Streak Stats
 
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
-</div>
 
 ---
 
 ## 🌟 Top Contributed Repos
 
-<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=carlmatthewcastro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
 
 ⭐ *“Code, Learn, Improve, Repeat.”*  
 
