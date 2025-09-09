@@ -58,21 +58,29 @@
 - 🐙 GitHub: [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
 - 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
 - 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:ymkze.xviii@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/><br/>
+        Gmail
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/carlmatthewcastro">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://facebook.com/yourusername">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/><br/>
+        Facebook
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="mailto:ymkze.xviii@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/carlmatthewcastro">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/yourusername">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
-</a>
-
-</div>
 
 ---
 
