@@ -29,7 +29,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
+![Squarespace](https://img.shields.io/badge/Squarespace-000000.svg?style=for-the-badge&logo=squarespace&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F06529.svg?style=for-the-badge&logo=lucidchart&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  
 
@@ -57,6 +59,7 @@
 
 ---
 
+## 📊 GitHub Stats 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&theme=synthwave&show_icons=true)
 
 ⭐ *“Code, Learn, Improve, Repeat.”*  
