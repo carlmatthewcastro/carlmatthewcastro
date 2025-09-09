@@ -66,6 +66,7 @@
 
 ## 📊 GitHub Stats 
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&theme=synthwave&show_icons=true)
+https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical
 
 ⭐ *“Code, Learn, Improve, Repeat.”*  
 
