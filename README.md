@@ -54,10 +54,25 @@
 ---
 
 ## 📫 Contact Me  
+- 📧 Email: [**ymkze.xviii@gmail.com**]  
+- 🐙 GitHub: [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
+- 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
+- 
+<div align="center">
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20"/> **ymkze.xviii@gmail.com**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/> [**Carl Matthew Castro**](https://facebook.com/yourusername)  
+<a href="mailto:ymkze.xviii@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://facebook.com/yourusername">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+</a>
+
+</div>
 
 ---
 
