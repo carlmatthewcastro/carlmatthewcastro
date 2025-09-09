@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://youtube.com/@UCnGikvZHxa2Vo0GA1Xo3F8A" target="_blank">
+<a href="https://youtube.com/@ymkzexviii" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
 
