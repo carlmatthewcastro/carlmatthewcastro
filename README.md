@@ -12,8 +12,8 @@
 ---
 
 ## 🎯 Goals  
-🚀 Improve my skills in **C#, Python, and Java**  
-🛠 - Develop meaningful projects that can benefit my Community  
+🚀 Improve my skills in **C#, Python, CSS, and Java**  
+🛠 Develop meaningful projects that can benefit my Community  
 🗄 Learn more about **databases (SQL)** and **full-stack development**  
 
 ---
