@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
 
-<a href="mailto:ymkze.xviii@gmail.com">
+<a href="mailto:(https://github.com/carlmatthewcastro)">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
