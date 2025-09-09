@@ -13,7 +13,7 @@
 
 ## 🎯 Goals  
 🚀 Improve my skills in **C#, Python, and Java**  
-🛠 Build real-world projects to strengthen my portfolio  
+🛠 - Develop meaningful projects that can benefit my Community  
 🗄 Learn more about **databases (SQL)** and **full-stack development**  
 
 ---
