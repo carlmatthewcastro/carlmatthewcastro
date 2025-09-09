@@ -54,14 +54,27 @@
 ---
 
 ## 📫 Contact Me   
+## 📫 Contact Me  
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymkze.xviii@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carlmatthewcastro)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)  
+<a href="mailto:ymkze.xviii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>  
+**ymkze.xviii@gmail.com**
+
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>  
+**carlmatthewcastro**
+
+<a href="https://facebook.com/yourusername">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>  
+**Carl Matthew Castro**
 
 </div>
+
 
 ---
 
