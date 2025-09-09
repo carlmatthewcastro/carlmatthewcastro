@@ -58,26 +58,22 @@
 
 ## 🌐 Socials:
 
-<div align="center">
 
-<a href="https://facebook.com/@ymkze.xviii" target="_blank">
+  href="https://facebook.com/@ymkze.xviii" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
 
-<a href="https://instagram.com/@ymkze.xviii" target="_blank">
+
+  href="https://instagram.com/@ymkze.xviii" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
 
-<a href="https://youtube.com/@ymkzexviii" target="_blank">
+
+  href="https://youtube.com/@ymkzexviii" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-</a>
 
-<a href="mailto:(https://github.com/carlmatthewcastro)">
+
+  href="mailto:(https://github.com/carlmatthewcastro)">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
+  
 ---
 
 ## 📊 GitHub Stats Dashboard
