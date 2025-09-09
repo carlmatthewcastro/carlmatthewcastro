@@ -63,34 +63,23 @@
 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
 
 ---
-# 📊 GitHub Profile Overview
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Profile Overview
 
----
-
-### 📈 GitHub Stats
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
+  ![trophy](https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 🔥 Streak Stats
-<div align="center">
+###🔥 Streak Stats
+
   <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
-</div>
 
 ---
 
-### 🌟 Top Contributed Repos
-<div align="center">
+## 🌟 Top Contributed Repos
+
   <img src="https://github-contributor-stats.vercel.app/api?username=carlmatthewcastro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
 
 ⭐ *“Code, Learn, Improve, Repeat.”*  
 
