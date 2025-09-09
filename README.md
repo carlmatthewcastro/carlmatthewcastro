@@ -18,10 +18,24 @@
 
 ---
 
-## 🛠 Skills  
-💻 Beginner in **Python**, **C#**, **SQL**, and **Java**  
-🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
-🔍 Always eager to explore and learn new technologies  
+## 🌐 Socials:
+
+<a href="https://facebook.com/@ymkze.xviii" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+
+<a href="https://instagram.com/@ymkze.xviii" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://youtube.com/@ymkzexviii" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="mailto:ymkze.xviii@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ---
 
@@ -56,25 +70,10 @@
 
 ---
 
-## 🌐 Socials:
-
-<a href="https://facebook.com/@ymkze.xviii" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-</a>
-
-
-<a href="https://instagram.com/@ymkze.xviii" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://youtube.com/@ymkzexviii" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
-</a>
-
-<a href="mailto:ymkze.xviii@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
+## 🛠 Skills  
+💻 Beginner in **Python**, **C#**, **SQL**, and **Java**  
+🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
+🔍 Always eager to explore and learn new technologies  
   
 ---
 
