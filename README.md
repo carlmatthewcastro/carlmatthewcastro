@@ -63,23 +63,41 @@
 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
 
 ---
-
 ## 📊 GitHub Profile Overview
 
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  ![trophy](https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
-###🔥 Streak Stats
+### 🔥 Streak Stats
 
+<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+</div>
+
+---
+
+## 📝 Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+**💡 Most Used Languages:** Python, C#
 
 ---
 
 ## 🌟 Top Contributed Repos
 
+<div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=carlmatthewcastro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+---
 
 ⭐ *“Code, Learn, Improve, Repeat.”*  
 
