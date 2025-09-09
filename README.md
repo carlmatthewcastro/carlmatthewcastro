@@ -55,6 +55,7 @@
 
 ## 📫 Contact Me  
 📧 Email: [**ymkze.xviii@gmail.com**]  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 🐙 GitHub: [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
 
 ---
