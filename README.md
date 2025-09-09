@@ -63,49 +63,30 @@
 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
 
 ---
-## 📊 GitHub Profile Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 🔥 Streak Stats
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
-
----
-
-## 🌟 Top Contributed Repos
-
-  <img src="https://github-contributor-stats.vercel.app/api?username=carlmatthewcastro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-⭐ *“Code, Learn, Improve, Repeat.”*  
-
----
 ## 📊 GitHub Stats Dashboard
 
 <div align="center">
 
-  <!-- GitHub Overview -->
+  <!-- GitHub Stats Overview -->
+  ### **GitHub Stats**
   <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
-
-  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 
-  <!-- GitHub Trophies -->
-  <br/>
+  <br/><br/>
+
+---
+
+  ### **🏆 GitHub Trophies**
   <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
-  <br/>
+  <br/><br/>
+
   ⭐ *“Code, Learn, Improve, Repeat.”*
 
 </div>
+
+---
 
 
