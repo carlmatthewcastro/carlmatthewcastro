@@ -1,4 +1,4 @@
-<img width="1223" height="894" alt="image" src="https://github.com/user-attachments/assets/decdc419-8dce-4736-bef9-e351023d724a" /># Hi there 👋, I'm Carl Matthew T. Castro  
+# Hi there 👋, I'm Carl Matthew T. Castro  
 
 ---
 
