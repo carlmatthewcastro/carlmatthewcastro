@@ -18,6 +18,20 @@
 
 ---
 
+## 🛠 Skills  
+💻 Beginner in **Python**, **C#**, **SQL**, and **Java**  
+🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
+🔍 Always eager to explore and learn new technologies  
+
+---
+
+## 📌 Current Projects  
+📖 Learning **Git** and **GitHub** for version control  
+💻 Developing **practice projects** in Python and C#  
+🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
+
+---
+
 ## 🛠 Languages & Tools  
 
 <div align="center">
@@ -36,51 +50,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  
 
 </div>
-
----
-
-## 🛠 Skills  
-💻 Beginner in **Python**, **C#**, **SQL**, and **Java**  
-🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
-🔍 Always eager to explore and learn new technologies  
-
----
-
-## 📌 Current Projects  
-📖 Learning **Git** and **GitHub** for version control  
-💻 Developing **practice projects** in Python and C#  
-🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
-
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: [**ymkze.xviii@gmail.com**]  
+- 📧 Email: **ymkze.xviii@gmail.com**  
 - 🐙 GitHub: [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
 - 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
-- 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:ymkze.xviii@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/><br/>
-        Gmail
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/carlmatthewcastro">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br/>
-        GitHub
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://facebook.com/yourusername">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/><br/>
-        Facebook
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 ---
 
