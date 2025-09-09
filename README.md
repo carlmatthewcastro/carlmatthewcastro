@@ -63,14 +63,11 @@
 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
 
 ---
-
 ## 📊 GitHub Stats Dashboard
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 
 ---
 
@@ -78,5 +75,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 ⭐ *“Code, Learn, Improve, Repeat.”*
+
 
 ---
