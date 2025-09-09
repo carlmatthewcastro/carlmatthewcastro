@@ -86,28 +86,26 @@
 ⭐ *“Code, Learn, Improve, Repeat.”*  
 
 ---
-
-## 📊 GitHub Profile Overview
+## 📊 GitHub Stats Dashboard
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-  <!-- Top Contributed Repos -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=carlmatthewcastro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <!-- GitHub Overview -->
+  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
 
   <!-- Streak Stats -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
 
-  <br/>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 
   <!-- GitHub Trophies -->
+  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
   <br/>
   ⭐ *“Code, Learn, Improve, Repeat.”*
-</div>
 
+</div>
 
 
