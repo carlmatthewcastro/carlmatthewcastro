@@ -84,25 +84,9 @@
 
 ---
 
-### 📝 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-**💡 Most Used Languages:** Python, C#
-
----
-
 ### 🌟 Top Contributed Repos
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=carlmatthewcastro&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-### 👁‍🗨 Profile Visitors
-<div align="center">
-  [<img src="https://visitcount.itsvg.in/api?id=carlmatthewcastro&icon=0&color=0" alt="Profile View Count" />](https://visitcount.itsvg.in)
 </div>
 
 ---
