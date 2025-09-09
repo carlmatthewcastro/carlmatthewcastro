@@ -53,9 +53,9 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: **ymkze.xviii@gmail.com**  
-- 🐙 GitHub: [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
-- 📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
+📧 Email: **ymkze.xviii@gmail.com**  
+🐙 GitHub: [**carlmatthewcastro**](https://github.com/carlmatthewcastro)  
+📘 Facebook: [**Matthew**](https://facebook.com/ymkze.xviii)
 
 ---
 
