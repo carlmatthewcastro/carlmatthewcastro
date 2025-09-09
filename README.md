@@ -72,8 +72,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
 
-  <br/><br/>
-
 ---
 
 ### **🏆 GitHub Trophies**
