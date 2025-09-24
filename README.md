@@ -110,9 +110,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <a href="https://roadmap.sh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  </a>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+  <a href="https://www.freecodecamp.org/" target="_blank">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+  </a>
   
 </div>
 
