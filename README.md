@@ -33,9 +33,123 @@
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
 
-<a href="mailto:ymkze.xviii@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact — Open Gmail Compose</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: #f7fafc;
+      margin: 0;
+      padding: 24px;
+    }
+    .card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(20,20,40,0.08);
+      padding: 28px;
+      width: 340px;
+      text-align: center;
+    }
+    h1 { margin: 0 0 12px 0; font-size: 20px; }
+    p { margin: 0 0 18px 0; color: #374151; font-size: 14px; }
+    .btn {
+      display: inline-block;
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 14px;
+      margin: 6px;
+    }
+    .btn-primary { background: #1a73e8; color: white; }
+    .btn-ghost { background: transparent; border: 1px solid #d1d5db; }
+    .email-display { font-family: monospace; color: #0f172a; margin-top: 12px; word-break: break-all; }
+    .notice { color: #6b7280; font-size: 13px; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <div class="card" role="region" aria-label="Contact card">
+    <h1>Send me an email</h1>
+    <p>Click the button to open Gmail's compose window (or use the fallback mail app).</p>
+
+    <!-- Replace this value with your Gmail address -->
+    <script>const MY_EMAIL = 'youremail@gmail.com';</script>
+
+    <div>
+      <button id="openGmail" class="btn btn-primary" title="Open Gmail compose">Open Gmail compose</button>
+      <button id="mailto" class="btn btn-ghost" title="Open default mail app">Open mail client</button>
+    </div>
+
+    <div>
+      <button id="copyEmail" class="btn" title="Copy email to clipboard">Copy email</button>
+    </div>
+
+    <div class="email-display" id="emailDisplay" aria-live="polite"></div>
+    <div class="notice">If you aren't signed into Gmail in this browser, the Gmail link will ask you to sign in first.</div>
+  </div>
+
+  <script>
+    // --- Configuration: change only the MY_EMAIL value above ---
+    // If you want subject/body prefilled, edit subject/body below (URL-encoded)
+    const subject = encodeURIComponent('Hello');
+    const body = encodeURIComponent('Hi — I found your contact and wanted to reach out.');
+    const gmailUrl = (email) => `https://mail.google.com/mail/?view=cm&to=${encodeURIComponent(email)}&su=${subject}&body=${body}`;
+    const mailtoUrl = (email) => `mailto:${encodeURIComponent(email)}?subject=${subject}&body=${body}`;
+
+    // UI elements
+    const openGmailBtn = document.getElementById('openGmail');
+    const mailtoBtn     = document.getElementById('mailto');
+    const copyBtn       = document.getElementById('copyEmail');
+    const display       = document.getElementById('emailDisplay');
+
+    // Show the email on the page (so users can see/copy it)
+    display.textContent = MY_EMAIL;
+
+    // Open Gmail compose in a new tab
+    openGmailBtn.addEventListener('click', () => {
+      const w = window.open(gmailUrl(MY_EMAIL), '_blank', 'noopener,noreferrer');
+      // Some browsers block popups; fallback to mailto if open failed
+      if (!w) {
+        // best-effort fallback:
+        window.location.href = mailtoUrl(MY_EMAIL);
+      }
+    });
+
+    // Open default mail client (mailto:)
+    mailtoBtn.addEventListener('click', () => {
+      window.location.href = mailtoUrl(MY_EMAIL);
+    });
+
+    // Copy the email to clipboard with feedback
+    copyBtn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(MY_EMAIL);
+        copyBtn.textContent = 'Copied!';
+        setTimeout(()=> copyBtn.textContent = 'Copy email', 1400);
+      } catch (err) {
+        // fallback: select text to allow manual copy
+        const el = document.createElement('textarea');
+        el.value = MY_EMAIL;
+        document.body.appendChild(el);
+        el.select();
+        try { document.execCommand('copy'); copyBtn.textContent = 'Copied!'; }
+        catch (e) { alert('Copy failed — please select and copy the address: ' + MY_EMAIL); }
+        document.body.removeChild(el);
+        setTimeout(()=> copyBtn.textContent = 'Copy email', 1400);
+      }
+    });
+  </script>
+</body>
+</html>
+
 
 ---
 
