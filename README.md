@@ -129,8 +129,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 
-</div>
-
   
 ⭐ *“Code, Learn, Improve, Repeat.”*
 
