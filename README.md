@@ -1,4 +1,9 @@
+<div align="center">
+
 # Hi there 👋, I'm Carl Matthew T. Castro  
+
+</div>
+
 
 ---
 
@@ -33,11 +38,9 @@
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
 
-<a href="mailto:ymkze.xviii@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-green?logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&to=youremail@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23FF0000.svg?logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-
 
 ---
 
