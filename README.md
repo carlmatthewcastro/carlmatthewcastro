@@ -23,7 +23,7 @@
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 <a href="https://facebook.com/@ymkze.xviii" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
