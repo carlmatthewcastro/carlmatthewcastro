@@ -17,7 +17,7 @@
 ---
 
 ## 🎯 Goals  
-🚀 Improve my skills in **C#, Python, CSS, and Java**  
+🚀 Improve my skills in **C#, Python, CSS, HTML, and Java**  
 🛠 Develop meaningful projects that can benefit my Community  
 🗄 Learn more about **databases (SQL)** and **full-stack development**  
 
@@ -48,7 +48,7 @@
 
 📖 Learning **Git** and **GitHub** for version control  
 💻 Developing **practice projects** in Python and C#  
-📲 Learning **Android Studio** for mobile app development  
+📲 Learning **Android Studio & Flutter** for mobile app development  
 🗄  Practicing **MySQL Workbench** for database design and queries  
 🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
 
@@ -100,7 +100,7 @@
 ---
 
 ## 🛠 Skills  
-💻 Beginner in **Python**, **C#**, **SQL**, and **Java**  
+💻 Beginner in **Python**, **C#**, **MySQL**, and **Java**  
 🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
 🔍 Always eager to explore and learn new technologies  
   
