@@ -9,12 +9,30 @@
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="28"/> About Me  
-<img src="https://cdn-icons-png.flaticon.com/512/3106/3106770.png" width="22"/> Age: *21*  
-<img src="https://cdn-icons-png.flaticon.com/512/201/201818.png" width="22"/> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
-<img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about **Cybersecurity** and **Software Development**  
-<img src="https://cdn-icons-png.flaticon.com/512/3721/3721651.png" width="22"/> Fun fact: I love playing the **guitar** 🎸  
+# <a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="28"/>
+</a> About Me  
+
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn-icons-png.flaticon.com/512/3106/3106770.png" width="22"/>
+</a> Age: *21*  
+
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn-icons-png.flaticon.com/512/201/201818.png" width="22"/>
+</a> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
+
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="22"/>
+</a> Program: **Bachelor of Science in Information Technology (BSIT)**  
+
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/>
+</a> Passionate about **Cybersecurity** and **Software Development**  
+
+<a href="https://github.com/carlmatthewcastro">
+  <img src="https://cdn-icons-png.flaticon.com/512/3721/3721651.png" width="22"/>
+</a> Fun fact: I love playing the **guitar** 🎸  
+
 
 ---
 
