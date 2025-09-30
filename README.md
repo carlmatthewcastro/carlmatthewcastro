@@ -1,8 +1,4 @@
 
-
-
-
-
 <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
@@ -13,19 +9,19 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/carlmatthewcastro/carlmatthewcastro/main/assets/aboutme.png" width="25"/> About Me  
-<img src="https://img.icons8.com/color/48/birthday-cake.png" width="20"/> Age: *21*  
-<img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
-<img src="https://img.icons8.com/color/48/open-book.png" width="20"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-cybersecurity-technology-flaticons-flat-flat-icons.png" width="20"/> Interested in **Cybersecurity** and **Software Development**  
-<img src="https://img.icons8.com/color/48/guitar.png" width="20"/> Fun fact: I play the **guitar** 🎸  
+## <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25"/> About Me  
+<img src="https://cdn-icons-png.flaticon.com/512/8743/8743996.png" width="20"/> Age: *21*  
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="20"/> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
+<img src="https://cdn-icons-png.flaticon.com/512/2989/2989988.png" width="20"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="20"/> Interested in **Cybersecurity** and **Software Development**  
+<img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="20"/> Fun fact: I play the **guitar**  
 
 ---
 
-## <img src="https://raw.githubusercontent.com/carlmatthewcastro/carlmatthewcastro/main/assets/goals.png" width="25"/> Goals  
-<img src="https://img.icons8.com/color/48/source-code.png" width="20"/> Improve my skills in **C#, Python, CSS, HTML, Java, Flutter**  
-<img src="https://img.icons8.com/color/48/idea.png" width="20"/> Develop meaningful projects that can benefit my Community  
-<img src="https://img.icons8.com/color/48/database.png" width="20"/> Learn more about **databases (SQL)** and **full-stack development**  
+## <img src="https://cdn-icons-png.flaticon.com/512/747/747310.png" width="25"/> Goals  
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="20"/> Improve my skills in **C#, Python, CSS, HTML, Java, Flutter**  
+<img src="https://cdn-icons-png.flaticon.com/512/2910/2910768.png" width="20"/> Develop meaningful projects that can benefit my Community  
+<img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="20"/> Learn more about **databases (SQL)** and **full-stack development**  
 
 ---
 
