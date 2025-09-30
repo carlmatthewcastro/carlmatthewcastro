@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" width="30"/> I'm Carl Matthew T. Castro  
+# Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" width="30"/>, I'm Carl Matthew T. Castro  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blue&style=flat)
 
@@ -35,7 +35,7 @@
 <a href="https://youtube.com/@ymkzexviii" target="_blank">
   <img src="https://img.icons8.com/color/48/youtube-play.png" width="30"/>
 </a>
-<a href="mailto:youremail@gmail.com" target="_blank">
+<a href="mailto:ymkze.xviii@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="30"/>
 </a>
 
@@ -63,7 +63,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
@@ -95,7 +94,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/prize.png" width="25"/> GitHub Trophies 🏆
+## 🏆 GitHub Trophies 
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
