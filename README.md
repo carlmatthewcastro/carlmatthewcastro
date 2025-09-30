@@ -3,7 +3,9 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
 
-![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://img.shields.io/github/profile/views/carlmatthewcastro?label=Profile%20Views&color=blue&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=green&style=for-the-badge)
+
 
 </div>
 
