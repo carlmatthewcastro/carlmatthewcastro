@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there <img src="https://img.icons8.com/emoji/48/waving-hand-emoji.png" width="30"/> I'm Carl Matthew T. Castro  
+# Hi there <img src="https://img.icons8.com/emoji/48/waving-hand-emoji.png" width="30"/>, I'm Carl Matthew T. Castro  
 
 </div>
 
