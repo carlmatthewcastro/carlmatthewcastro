@@ -9,12 +9,11 @@
 
 ---
 ## <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="22"/> About Me  
-<img src="https://cdn-icons-png.flaticon.com/512/3082/3082031.png" width="22"/> Age: **21**  
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**
+<img src="https://cdn-icons-png.flaticon.com/512/105/Cake-icon.png" width="22"/> Age: **21**  
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
-<img src="https://cdn-icons-png.flaticon.com/512/7328/7328704.png" width="22"/> Fun fact: **I love playing the guitar**  
-
+<img src="https://cdn-icons-png.flaticon.com/512/727/727245.png" width="22"/> Fun fact: **I love playing the guitar**  
 
 ---
 
