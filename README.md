@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30"/>, I'm Carl Matthew T. Castro  
+# Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" width="30"/>, I'm Carl Matthew T. Castro  
+
+![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blue&style=flat)
 
 </div>
 
@@ -16,7 +18,7 @@
 ---
 
 ## <img src="https://img.icons8.com/color/48/rocket--v1.png" width="25"/> Goals  
-<img src="https://img.icons8.com/color/48/source-code.png" width="20"/> Improve my skills in **C#, Python, CSS, HTML, and Java**  
+<img src="https://img.icons8.com/color/48/source-code.png" width="20"/> Improve my skills in **C#, Python, CSS, HTML, Java, Flutter**  
 <img src="https://img.icons8.com/color/48/idea.png" width="20"/> Develop meaningful projects that can benefit my Community  
 <img src="https://img.icons8.com/color/48/database.png" width="20"/> Learn more about **databases (SQL)** and **full-stack development**  
 
@@ -42,8 +44,8 @@
 ## <img src="https://img.icons8.com/color/48/project.png" width="25"/> Current Projects  
 
 📖 Learning **Git** and **GitHub** for version control  
-💻 Developing **practice projects** in Python and C#  
-📲 Learning **Android Studio & Flutter** for mobile app development  
+💻 Developing **practice projects** in Python, C#, and Flutter  
+📲 Exploring **Android Studio** & **Flutter** for mobile app development  
 🗄 Practicing **MySQL Workbench** for database design and queries  
 🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
 
@@ -59,6 +61,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
@@ -69,7 +73,7 @@
 ---
 
 ## <img src="https://img.icons8.com/color/48/computer-support.png" width="25"/> Skills  
-💻 Beginner in **Python**, **C#**, **MySQL**, and **Java**  
+💻 Beginner in **Python**, **C#**, **MySQL**, **Java**, and **Flutter**  
 🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
 🔍 Always eager to explore and learn new technologies  
 
@@ -91,7 +95,7 @@
 
 ---
 
-## GitHub Trophies 🏆
+## <img src="https://img.icons8.com/color/48/prize.png" width="25"/> GitHub Trophies 
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
