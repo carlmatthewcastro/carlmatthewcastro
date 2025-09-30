@@ -3,8 +3,12 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
 
-![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=00ff99&style=for-the-badge)
+<!-- Profile Views Badge -->
+![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=00CED1&style=for-the-badge)
+
+<!-- Followers Badge -->
+![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=DC143C&style=for-the-badge)
+
 
 </div>
 
