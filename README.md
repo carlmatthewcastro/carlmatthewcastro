@@ -9,19 +9,19 @@
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png" width="28"/> About Me  
-<img src="https://cdn-icons-png.flaticon.com/512/3061/3061341.png" width="22"/> Age: *21*  
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="22"/> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
+# <img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="28"/> About Me  
+<img src="https://cdn-icons-png.flaticon.com/512/3106/3106770.png" width="22"/> Age: *21*  
+<img src="https://cdn-icons-png.flaticon.com/512/201/201818.png" width="22"/> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
-<img src="https://cdn-icons-png.flaticon.com/512/3132/3132502.png" width="22"/> Passionate about **Cybersecurity** and **Software Development**  
-<img src="https://cdn-icons-png.flaticon.com/512/726/726218.png" width="22"/> Fun fact: I love playing the **guitar** 🎸  
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about **Cybersecurity** and **Software Development**  
+<img src="https://cdn-icons-png.flaticon.com/512/3721/3721651.png" width="22"/> Fun fact: I love playing the **guitar** 🎸  
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2985/2985150.png" width="28"/> Goals  
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="22"/> Sharpen my skills in **C#, Python, CSS, HTML, Java, Flutter**  
-<img src="https://cdn-icons-png.flaticon.com/512/684/684831.png" width="22"/> Create **impactful projects** that benefit my community  
-<img src="https://cdn-icons-png.flaticon.com/512/833/833524.png" width="22"/> Gain expertise in **databases (SQL)** and **full-stack development**  
+## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="28"/> Goals  
+<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="22"/> Sharpen my skills in **C#, Python, CSS, HTML, Java, Flutter**  
+<img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" width="22"/> Create **impactful projects** that benefit my community  
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="22"/> Gain expertise in **databases (SQL)** and **full-stack development**  
 
 ---
 
