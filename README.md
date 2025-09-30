@@ -8,9 +8,9 @@
 </div>
 
 ---
-# <a href="https://github.com/carlmatthewcastro">
+## <a href="https://github.com/carlmatthewcastro"></a> About Me  
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"/>
-</a> About Me  
+
 
 - <a href="https://github.com/carlmatthewcastro">
     <img src="https://cdn-icons-png.flaticon.com/512/3106/3106770.png" width="20"/>
