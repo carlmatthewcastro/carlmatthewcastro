@@ -1,15 +1,11 @@
 
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-<style>
-  body {
-    font-family: 'Poppins', sans-serif;
-  }
-</style>
+
+
 
 <div align="center">
 
-# Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" width="30"/>, I'm **Carl Matthew T. Castro**  
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blue&style=flat)
 
