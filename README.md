@@ -16,7 +16,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
-🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/T1_%28esports%29.png" alt="T1 Logo" width="20" height="20">
+🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
+![T1 Logo](https://upload.wikimedia.org/wikipedia/commons/7/7f/T1_%28esports%29.png)
+
 
 
 
