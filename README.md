@@ -1,6 +1,15 @@
+<!-- Import Google Font -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+</style>
+
 <div align="center">
 
-# Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" width="30"/>, I'm Carl Matthew T. Castro  
+# Hi there <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f44b.svg" width="30"/>, I'm **Carl Matthew T. Castro**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blue&style=flat)
 
@@ -8,16 +17,16 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/user-male-circle--v1.png" width="25"/> About Me  
+## <img src="https://raw.githubusercontent.com/carlmatthewcastro/carlmatthewcastro/main/assets/aboutme.png" width="25"/> About Me  
 <img src="https://img.icons8.com/color/48/birthday-cake.png" width="20"/> Age: *21*  
 <img src="https://img.icons8.com/color/48/graduation-cap.png" width="20"/> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://img.icons8.com/color/48/open-book.png" width="20"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-cybersecurity-technology-flaticons-flat-flat-icons.png" width="20"/> Interested in **Cybersecurity** and **Software Development**  
-<img src="https://img.icons8.com/color/48/guitar.png" width="20"/> Fun fact: I play the **guitar**  
+<img src="https://img.icons8.com/color/48/guitar.png" width="20"/> Fun fact: I play the **guitar** 🎸  
 
 ---
 
-## <img src="https://img.icons8.com/color/48/rocket--v1.png" width="25"/> Goals  
+## <img src="https://raw.githubusercontent.com/carlmatthewcastro/carlmatthewcastro/main/assets/goals.png" width="25"/> Goals  
 <img src="https://img.icons8.com/color/48/source-code.png" width="20"/> Improve my skills in **C#, Python, CSS, HTML, Java, Flutter**  
 <img src="https://img.icons8.com/color/48/idea.png" width="20"/> Develop meaningful projects that can benefit my Community  
 <img src="https://img.icons8.com/color/48/database.png" width="20"/> Learn more about **databases (SQL)** and **full-stack development**  
@@ -26,10 +35,10 @@
 
 ## 🌐 Socials
 
-<a href="https://facebook.com/@ymkze.xviii" target="_blank">
+<a href="https://facebook.com/ymkze.xviii" target="_blank">
   <img src="https://img.icons8.com/color/48/facebook.png" width="30"/>
 </a>
-<a href="https://instagram.com/@ymkze.xviii" target="_blank">
+<a href="https://instagram.com/ymkze.xviii" target="_blank">
   <img src="https://img.icons8.com/color/48/instagram-new.png" width="30"/>
 </a>
 <a href="https://youtube.com/@ymkzexviii" target="_blank">
@@ -55,17 +64,17 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/></a>
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/></a>
+<a href="https://flutter.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/></a>
+<a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/></a>
+<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/></a>
+<a href="https://www.eclipse.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/></a>
 
 </div>
 
@@ -82,13 +91,8 @@
 
 <div align="center">
 
-  <a href="https://roadmap.sh" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  </a>
-
-  <a href="https://www.freecodecamp.org/" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
   
 </div>
 
@@ -97,9 +101,7 @@
 ## 🏆 GitHub Trophies 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 ⭐ *“Code, Learn, Improve, Repeat.”*
 
