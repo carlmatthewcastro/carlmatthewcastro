@@ -87,8 +87,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+  <a href="https://github.com/carlmatthewcastro">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/carlmatthewcastro">
+    <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+  </a>
   
 </div>
 
@@ -97,7 +102,10 @@
 ## 🏆 GitHub Trophies 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+   <a href="https://github.com/carlmatthewcastro">
+    <img src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
 
 ⭐ *“Code, Learn, Improve, Repeat.”*
 
