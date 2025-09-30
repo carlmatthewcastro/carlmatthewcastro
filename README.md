@@ -17,6 +17,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
 🎸 Fun fact: **I love playing the guitar**
+<img src="https://upload.wikimedia.org/wikipedia/en/5/5b/T1_logo_2020.png" width="30"/> **Fun Fact:** I’m a proud fan of **T1 Esports**! ⚡
+
 
 ---
 
