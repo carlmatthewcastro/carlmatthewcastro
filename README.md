@@ -22,6 +22,7 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="28"/> Goals  
 <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="22"/> Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development**
+
 <img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" width="22"/> Create **impactful projects** that benefit my community  
 <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="22"/> Gain expertise in **databases (SQL)** and **full-stack development**  
 
