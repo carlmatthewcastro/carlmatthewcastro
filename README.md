@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there <img src="https://img.icons8.com/color/48/hand-wave.png" width="30"/> I'm Carl Matthew T. Castro  
+# Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30"/>, I'm Carl Matthew T. Castro  
 
 </div>
 
@@ -91,7 +91,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/prize.png" width="25"/> GitHub Trophies 🏆
+## GitHub Trophies 🏆
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
