@@ -12,25 +12,26 @@
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="28"/>
 </a> About Me  
 
-<a href="https://github.com/carlmatthewcastro">
-  <img src="https://cdn-icons-png.flaticon.com/512/3106/3106770.png" width="22"/>
-</a> Age: *21*  
+- <a href="https://github.com/carlmatthewcastro">
+    <img src="https://cdn-icons-png.flaticon.com/512/3106/3106770.png" width="20"/>
+  </a> **Age:** 21  
 
-<a href="https://github.com/carlmatthewcastro">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/>
-</a> Currently enrolled at **Laguna State Polytechnic University – Santa Cruz Campus**  
+- <a href="https://github.com/carlmatthewcastro">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="20"/>
+  </a> **Currently enrolled at:** Laguna State Polytechnic University – Santa Cruz Campus  
 
-<a href="https://github.com/carlmatthewcastro">
-  <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="22"/>
-</a> Program: **Bachelor of Science in Information Technology (BSIT)**  
+- <a href="https://github.com/carlmatthewcastro">
+    <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="20"/>
+  </a> **Program:** Bachelor of Science in Information Technology (BSIT)  
 
-<a href="https://github.com/carlmatthewcastro">
-  <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="22"/>
-</a> Passionate about **Cybersecurity** and **Software Development**  
+- <a href="https://github.com/carlmatthewcastro">
+    <img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="20"/>
+  </a> **Passionate about:** Cybersecurity & Software Development  
 
-<a href="https://github.com/carlmatthewcastro">
-  <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="22"/>
-</a> Fun fact: I love playing the **guitar** 🎸  
+- <a href="https://github.com/carlmatthewcastro">
+    <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="20"/>
+  </a> **Fun fact:** I love playing the guitar 🎸  
+
 
 ---
 
