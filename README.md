@@ -47,10 +47,10 @@
 ## <img src="https://img.icons8.com/color/48/project.png" width="25"/> Current Projects  
 
 📖 Learning **Git** and **GitHub** for version control  
-💻 Developing **practice projects** in Python, C#, and Flutter  
-📲 Exploring **Android Studio** & **Flutter** for mobile app development  
-🗄 Practicing **MySQL Workbench** for database design and queries  
-🛠 Exploring **Visual Studio Code** and **Eclipse** for software development  
+💻 Developing **practice projects** in Python, C#, and Java  
+📲 Exploring **Android Studio** and **Flutter** for mobile app development  
+🗄 Practicing **MySQL Workbench and Supabase** for database design and queries  
+🛠 Exploring **Visual Studio Code** and **Eclipse** for web development  
 
 ---
 
