@@ -32,8 +32,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/427/427735.png" width="22"/>
 </a> Fun fact: I love playing the **guitar** 🎸  
 
-
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="28"/> Goals  
