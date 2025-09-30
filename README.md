@@ -5,7 +5,6 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
 ![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=00ff99&style=for-the-badge)
 
 </div>
