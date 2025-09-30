@@ -16,7 +16,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
-<img src="https://cdn-icons-png.flaticon.com/512/135/135763.png" width="22"/> Fun fact: **I love playing the guitar**  
+<img src="https://cdn-icons-png.flaticon.com/512/135/135763.png" width="22"/> Fun fact: **I love playing the guitar**
+
 
 ---
 
