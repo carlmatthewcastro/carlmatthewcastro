@@ -1,4 +1,4 @@
-images/t1-logo.webp
+
 <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
@@ -16,7 +16,8 @@ images/t1-logo.webp
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
-🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** <img src="images/t1-logo.webp" alt="T1 Logo" width="20" height="20">
+🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/T1_%28esports%29.png" alt="T1 Logo" width="20" height="20">
+
 
 
 
