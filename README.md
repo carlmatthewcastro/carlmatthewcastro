@@ -49,7 +49,7 @@
 📖 Learning **Git** and **GitHub** for version control  
 💻 Developing **practice projects** in Python, C#, and Java  
 📲 Exploring **Android Studio** and **Flutter** for mobile app development  
-🗄 Practicing **MySQL Workbench and Supabase** for database design and queries  
+🗄 Practicing **MySQL Workbench** and **Supabase** for database design and queries  
 🛠 Exploring **Visual Studio Code** and **Eclipse** for web development  
 
 ---
