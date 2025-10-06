@@ -96,9 +96,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
   </a>
 
-  <a href="https://github.com/carlmatthewcastro">
-    <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt=" " />
-  </a>
+<a href="https://github.com/carlmatthewcastro" target="_blank">
+  <img 
+    src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" 
+    alt="GitHub Streak Stats for carlmatthewcastro"
+  />
+</a>
+
   
 </div>
 
