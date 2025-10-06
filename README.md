@@ -97,7 +97,7 @@
   </a>
 
   <a href="https://github.com/carlmatthewcastro">
-    <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false" alt=" " />
   </a>
   
 </div>
