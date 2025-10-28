@@ -84,14 +84,25 @@
 
 <div align="center">
 
+  <!-- GitHub Stats Card -->
   <a href="https://github.com/carlmatthewcastro" target="_blank">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" 
-    alt="GitHub Stats"
-  />
-</a>
-  
-</div>
-⭐ *“Code, Learn, Improve, Repeat.”*
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" 
+      alt="GitHub Stats"
+    />
+  </a>
+
+  <!-- GitHub Trophies Card -->
+  <a href="https://github.com/carlmatthewcastro" target="_blank">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10" 
+      alt="GitHub Trophies"
+      style="max-width: 100%; height: auto; margin-top: 15px;"
+    />
+  </a>
+
+  <br>
+  ⭐ <em>“Code, Learn, Improve, Repeat.”</em>
 
 </div>
+
