@@ -17,14 +17,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
 🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
 
-
-
-
-
-
-
-
-
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="28"/> Goals  
@@ -106,14 +98,13 @@
 ## 🏆 GitHub Trophies 
 <div align="center">
 
-   <a href="https://github.com/carlmatthewcastro" target="_blank">
+ <a href="https://github.com/carlmatthewcastro" target="_blank">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=radical&no-frame=false&no-bg=true&margin-w=4" 
+      src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10" 
       alt="GitHub Trophies" 
-      style="max-width: 100%; height: auto;"
+      style="max-width: 100%; height: auto; border-radius: 10px;"
     />
   </a>
-
 
 ⭐ *“Code, Learn, Improve, Repeat.”*
 
