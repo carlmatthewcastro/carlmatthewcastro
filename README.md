@@ -84,7 +84,6 @@
 
  <div align="center">
 
-  <!-- GitHub Stats Card -->
   <a href="https://github.com/carlmatthewcastro" target="_blank">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" 
