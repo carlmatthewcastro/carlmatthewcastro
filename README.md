@@ -92,20 +92,6 @@
 </a>
   
 </div>
-
----
-
-## 🏆 GitHub Trophies 
-<div align="center">
-
- <a href="https://github.com/carlmatthewcastro" target="_blank">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=carlmatthewcastro&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10" 
-      alt="GitHub Trophies" 
-      style="max-width: 100%; height: auto; border-radius: 10px;"
-    />
-  </a>
-
 ⭐ *“Code, Learn, Improve, Repeat.”*
 
 </div>
