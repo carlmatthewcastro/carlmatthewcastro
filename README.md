@@ -79,10 +79,9 @@
 🔍 Always eager to explore and learn new technologies  
 
 ---
-
 ## <img src="https://img.icons8.com/color/48/combo-chart.png" width="25"/> GitHub Stats Dashboard
 
- <div align="center">
+<div align="center">
 
   <a href="https://github.com/carlmatthewcastro" target="_blank">
     <img 
@@ -91,8 +90,9 @@
     />
   </a>
 
-  <br>
+  <br><br>
   ⭐ <em>“Code, Learn, Improve, Repeat.”</em>
 
 </div>
+
 
