@@ -83,24 +83,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/carlmatthewcastro" target="_blank">
-    <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false"
-      height="170"
-      alt="GitHub Stats"
-    />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/carlmatthewcastro" target="_blank">
-    <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false"
-      height="170"
-      alt="Top Languages"
-    />
-  </a>
-
   <br><br>
 
   <!-- Streak Stats -->
