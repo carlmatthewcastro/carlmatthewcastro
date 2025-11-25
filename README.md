@@ -85,7 +85,7 @@
 
   <a href="https://github.com/carlmatthewcastro" target="_blank">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false"
       alt="GitHub Stats"
     />
   </a>
