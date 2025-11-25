@@ -79,14 +79,35 @@
 🔍 Always eager to explore and learn new technologies  
 
 ---
-## <img src="https://img.icons8.com/color/48/combo-chart.png" width="25"/> GitHub Stats Dashboard
+## <img src="https://img.icons8.com/color/48/combo-chart.png" width="25"/> GitHub Dashboard
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <a href="https://github.com/carlmatthewcastro" target="_blank">
     <img 
       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlmatthewcastro&show_icons=true&theme=radical&hide_border=false"
+      height="170"
       alt="GitHub Stats"
+    />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/carlmatthewcastro" target="_blank">
+    <img 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&theme=radical&hide_border=false"
+      height="170"
+      alt="Top Languages"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/carlmatthewcastro" target="_blank">
+    <img 
+      src="https://streak-stats.demolab.com?user=carlmatthewcastro&theme=radical&hide_border=false"
+      alt="GitHub Streak"
     />
   </a>
 
@@ -94,5 +115,3 @@
   ⭐ <em>“Code, Learn, Improve, Repeat.”</em>
 
 </div>
-
-
