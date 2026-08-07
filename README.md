@@ -97,7 +97,9 @@
 ---
 <div align="center">
 
-<!-- Static Graphic Quote Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=55&section=footer&text=⭐%20Code,%20Learn,%20Improve,%20Repeat.&fontColor=61afef&fontSize=20&fontAlign=50" alt="Static Quote Banner" />
-
-</div>
+```text
+ ██████   ██████  ██████  ███████     ██       ███████  █████  ██████  
+██       ██    ██ ██   ██ ██          ██       ██      ██   ██ ██   ██ 
+██       ██    ██ ██   ██ █████       ██       █████   ███████ ██████  
+██       ██    ██ ██   ██ ██          ██       ██      ██   ██ ██   ██ 
+‭██████   ██████  ██████  ███████     ███████  ███████ ██   ██ ██   ██
