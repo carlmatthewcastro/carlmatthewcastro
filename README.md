@@ -2,7 +2,6 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
 
-<!-- Centered Typing SVG for Introduction -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/carlmatthewcastro)
@@ -98,8 +97,8 @@
 <div align="center">
 
 ```text
- ██████   ██████  ██████  ███████     ██       ███████  █████  ██████  
-██       ██    ██ ██   ██ ██          ██       ██      ██   ██ ██   ██ 
-██       ██    ██ ██   ██ █████       ██       █████   ███████ ██████  
-██       ██    ██ ██   ██ ██          ██       ██      ██   ██ ██   ██ 
-‭██████   ██████  ██████  ███████     ███████  ███████ ██   ██ ██   ██
+██╗  ██╗███████╗██╗     ██╗      ██████╗      ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗     ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+███████║█████╗  ██║     ██║     ██║   ██║     ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║     ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝     ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
