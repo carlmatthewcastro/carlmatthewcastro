@@ -12,17 +12,17 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="22"/> About Me  
 Age: **21**  
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
-<img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
+Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
+Program: **Bachelor of Science in Information Technology (BSIT)**  
+Passionate about: **Cybersecurity & Software Development**  
 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="28"/> Goals  
-<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="22"/> Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development**  
-<img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" width="22"/> Create **impactful projects** that benefit my community  
-<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="22"/> Gain expertise in **databases (SQL)** and **full-stack development**
+Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development**  
+Create **impactful projects** that benefit my community  
+Gain expertise in **databases (SQL)** and **full-stack development**
 
 ---
 
