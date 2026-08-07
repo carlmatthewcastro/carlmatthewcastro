@@ -11,7 +11,7 @@
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="22"/> About Me  
-Age: **21**  
+Age: **22**  
 Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
 Program: **Bachelor of Science in Information Technology (BSIT)**  
 Passionate about: **Cybersecurity & Software Development**  
