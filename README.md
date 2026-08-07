@@ -11,11 +11,11 @@
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="22"/> About Me  
-🎂 Age: **21**  
+Age: **21**  
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="22"/> Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
 <img src="https://cdn-icons-png.flaticon.com/512/906/906175.png" width="22"/> Program: **Bachelor of Science in Information Technology (BSIT)**  
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055644.png" width="22"/> Passionate about: **Cybersecurity & Software Development**  
-🎸 Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
+Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
 
 ---
 
@@ -45,11 +45,11 @@
 
 ## <img src="https://img.icons8.com/color/48/project.png" width="25"/> Current Projects  
 
-📖 Learning **Git** and **GitHub** for version control  
-💻 Developing **practice projects** in Python, C#, and Java  
-📲 Exploring **Android Studio** and **Flutter** for mobile app development  
-🗄 Practicing **MySQL Workbench** and **Supabase** for database design and queries  
-🛠 Exploring **Visual Studio Code** and **Eclipse** for web development  
+Learning **Git** and **GitHub** for version control  
+Developing **practice projects** in Python, C#, and Java  
+Exploring **Android Studio** and **Flutter** for mobile app development  
+Practicing **MySQL Workbench** and **Supabase** for database design and queries  
+Exploring **Visual Studio Code** and **Eclipse** for web development  
 
 ---
 
@@ -74,9 +74,9 @@
 ---
 
 ## <img src="https://img.icons8.com/color/48/computer-support.png" width="25"/> Skills  
-💻 Beginner in **Python**, **C#**, **MySQL**, **Java**, and **Flutter**  
-🌐 Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
-🔍 Always eager to explore and learn new technologies  
+Beginner in **Python**, **C#**, **MySQL**, **Java**, and **Flutter**  
+Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
+Always eager to explore and learn new technologies  
 
 ---
 <div align="center">
