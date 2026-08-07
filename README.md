@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
 
-<!-- Added &center=true to align the typing text properly -->
+<!-- Centered Typing SVG for Introduction -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/carlmatthewcastro)
@@ -97,6 +97,7 @@
 ---
 <div align="center">
 
-  ⭐ <em>“Code, Learn, Improve, Repeat.”</em>
+<!-- Animated Footer Quote -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=360&center=true&lines=%E2%AD%90+%E2%80%9CCode,+Learn,+Improve,+Repeat.%E2%80%9D" alt="Animated Quote" />
 
 </div>
