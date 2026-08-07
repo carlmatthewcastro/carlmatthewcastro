@@ -46,7 +46,7 @@ Gain expertise in **databases (SQL)** and **full-stack development**
 ## <img src="https://img.icons8.com/color/48/project.png" width="25"/> Current Projects  
 
 Learning **Git** and **GitHub** for version control  
-Developing **practice projects** in Python, C#, and Java  
+Developing **practice projects** in Python, PHP, C# and Java  
 Exploring **Android Studio** and **Flutter** for mobile app development  
 Practicing **MySQL Workbench** and **Supabase** for database design and queries  
 Exploring **Visual Studio Code** and **Eclipse** for web development  
@@ -74,8 +74,8 @@ Exploring **Visual Studio Code** and **Eclipse** for web development
 ---
 
 ## <img src="https://img.icons8.com/color/48/computer-support.png" width="25"/> Skills  
-Beginner in **Python**, **C#**, **MySQL**, **Java**, and **Flutter**  
-Familiar with **HTML**, **CSS**, and **basic Git/GitHub**  
+Beginner in **Python**, **PHP**, **Java**, **MySQL**, and **C#**  
+Familiar with **HTML**, **CSS**, **JS**, and **basic Git/GitHub**  
 Always eager to explore and learn new technologies  
 
 ---
