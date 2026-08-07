@@ -2,8 +2,8 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
 
-<!-- Animated Text - Now Centered -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
+<!-- Added &center=true to align the typing text properly -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/carlmatthewcastro)
 [![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=00ff99&style=for-the-badge)](https://github.com/carlmatthewcastro?tab=followers)
