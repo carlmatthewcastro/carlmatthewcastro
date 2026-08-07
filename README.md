@@ -97,7 +97,7 @@
 ---
 <div align="center">
 
-<!-- Animated Footer Quote -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&width=360&center=true&lines=%E2%AD%90+%E2%80%9CCode,+Learn,+Improve,+Repeat.%E2%80%9D" alt="Animated Quote" />
+<!-- Static Graphic Quote Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=55&section=footer&text=⭐%20Code,%20Learn,%20Improve,%20Repeat.&fontColor=61afef&fontSize=20&fontAlign=50" alt="Static Quote Banner" />
 
 </div>
