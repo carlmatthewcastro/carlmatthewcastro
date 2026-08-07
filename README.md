@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm **Carl Matthew T. Castro**
@@ -45,11 +44,19 @@ Gain expertise in **databases (SQL)** and **full-stack development**
 
 ## <img src="https://img.icons8.com/color/48/project.png" width="25"/> Current Projects  
 
-Learning **Git** and **GitHub** for version control  
-Developing **practice projects** in Python, PHP, C# and Java  
-Exploring **Android Studio** and **Flutter** for mobile app development  
-Practicing **MySQL Workbench** and **Supabase** for database design and queries  
-Exploring **Visual Studio Code** and **Eclipse** for web development  
+- Developing full-stack web applications using **Laravel**.
+- Mastering the **request lifecycle** and client-server architecture.
+- Improving **Git** and **GitHub** workflows for source-code management.
+- Developing practice projects in Python, C#, and Java.
+- Exploring mobile app development with **Flutter** and **Android Studio**.
+
+---
+
+## <img src="https://img.icons8.com/color/48/star.png" width="25"/> Recent Milestones
+
+- **Laravel Environment:** Successfully configured PHP, Composer, and Laravel, and deployed my first Laravel application.
+- **Web Architecture:** Gained a deep understanding of the request lifecycle and how backend frameworks facilitate server-client communication.
+- **Version Control:** Strengthened collaborative skills and source-code management practices.
 
 ---
 
@@ -57,6 +64,8 @@ Exploring **Visual Studio Code** and **Eclipse** for web development
 
 <div align="center">
 
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></a>
+<a href="https://laravel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/></a>
 <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></a>
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
@@ -74,9 +83,10 @@ Exploring **Visual Studio Code** and **Eclipse** for web development
 ---
 
 ## <img src="https://img.icons8.com/color/48/computer-support.png" width="25"/> Skills  
-Beginner in **Python**, **PHP**, **Java**, **MySQL**, and **C#**  
-Familiar with **HTML**, **CSS**, **JS**, and **basic Git/GitHub**  
-Always eager to explore and learn new technologies  
+- **Web Development:** Laravel, PHP, HTML, CSS, JS
+- **Programming:** Python, Java, C#
+- **Database & Tools:** MySQL, Git, GitHub
+- Always eager to explore and learn new technologies  
 
 ---
 <div align="center">
