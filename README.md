@@ -33,6 +33,9 @@ Gain expertise in **databases (SQL)** and **full-stack development**
 <a href="https://instagram.com/ymkze.xviii" target="_blank">
   <img src="https://img.icons8.com/color/48/instagram-new.png" width="30"/>
 </a>
+<a href="https://www.linkedin.com/in/carlmatthewcastro" target="_blank">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
+</a>
 <a href="https://youtube.com/@ymkzexviii" target="_blank">
   <img src="https://img.icons8.com/color/48/youtube-play.png" width="30"/>
 </a>
