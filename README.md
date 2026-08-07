@@ -10,18 +10,18 @@
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="22"/> About Me  
-Age: **22**  
-Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
-Program: **Bachelor of Science in Information Technology (BSIT)**  
-Passionate about: **Cybersecurity & Software Development**  
-Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
+- Age: **22**  
+- Currently enrolled at: **Laguna State Polytechnic University – Santa Cruz Campus**  
+- Program: **Bachelor of Science in Information Technology (BSIT)**  
+- Passionate about: **Cybersecurity & Software Development**  
+- Fun fact: **I love playing the guitar** and I’m a proud fan of **T1 Esports!** 
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="28"/> Goals  
-Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development**  
-Create **impactful projects** that benefit my community  
-Gain expertise in **databases (SQL)** and **full-stack development**
+- Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development**  
+- Create **impactful projects** that benefit my community  
+- Gain expertise in **databases (SQL)** and **full-stack development**
 
 ---
 
