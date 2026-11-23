@@ -1,10 +1,8 @@
- 
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0f&height=150&section=header&text=Carl%20Matthew%20T.%20Castro&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20BSIT%20Student&descSize=17&descColor=ef4444&descAlignY=72" width="100%" alt="Carl Matthew T. Castro" />
 
-### Hi, I'm Matthew 👋
+### <img src="https://api.iconify.design/lucide:hand.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Hi, I'm Matthew
 
 **Backend Development · Database Systems · Full-Stack Engineering**
 
@@ -19,7 +17,7 @@ I'm passionate about building practical applications, designing reliable systems
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;About Me
 
 I'm a **Bachelor of Science in Information Technology student** at **Laguna State Polytechnic University – Santa Cruz Campus**, with a strong interest in backend development, database-driven applications, and software engineering.
 
@@ -27,15 +25,37 @@ I enjoy understanding how applications work behind the scenes, from database str
 
 My goal is to become a skilled software developer capable of building applications that are **reliable, maintainable, secure, and useful in real-world situations**.
 
-- 🔭 **Currently working on:** Improving my backend and full-stack development skills
-- 🌱 **Currently exploring:** REST APIs, application security, Flutter, and Python
-- 💡 **Interested in:** Backend architecture, database design, and cybersecurity
-- 🎯 **My focus:** Writing better code, understanding systems, and learning through practical projects
-- 🎸 **Beyond programming:** Playing guitar and following T1 Esports
+<table>
+  <tr>
+    <td width="40"><img src="https://api.iconify.design/lucide:telescope.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td width="210"><b>Currently working on</b></td>
+    <td>Improving my backend and full-stack development skills</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:sprout.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Currently exploring</b></td>
+    <td>REST APIs, application security, Flutter, and Python</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Interested in</b></td>
+    <td>Backend architecture, database design, and cybersecurity</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:target.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>My focus</b></td>
+    <td>Writing better code, understanding systems, and learning through practical projects</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:guitar.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Beyond programming</b></td>
+    <td>Playing guitar and following T1 Esports</td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Tech Stack
 
 <div align="center">
 
@@ -65,7 +85,7 @@ My goal is to become a skilled software developer capable of building applicatio
 
 ---
 
-## 🚀 Featured Project
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Featured Project
 
 <div align="center">
 
@@ -85,12 +105,28 @@ A multi-role platform developed to connect online shopping, seller operations, l
 
 ### Project Highlights
 
-- **Role-based system:** Different workflows for administrators, logistics personnel, riders, sellers, and buyers.
-- **Order and logistics management:** Order processing, parcel handling, tracking, and delivery operations.
-- **Returns and refunds:** Structured workflows for managing return requests and refund processing.
-- **Rider mobile application:** Mobile integration for rider assignments, QR-based parcel handling, and delivery proof workflows.
+<table>
+  <tr>
+    <td width="40"><img src="https://api.iconify.design/lucide:users.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Role-based system:</b> Different workflows for administrators, logistics personnel, riders, sellers, and buyers.</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:package-check.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Order and logistics management:</b> Order processing, parcel handling, tracking, and delivery operations.</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:undo-2.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Returns and refunds:</b> Structured workflows for managing return requests and refund processing.</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:smartphone.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Rider mobile application:</b> Mobile integration for rider assignments, QR-based parcel handling, and delivery proof workflows.</td>
+  </tr>
+</table>
 
 <div align="center">
+
+<br/>
 
 [![View Live Application](https://img.shields.io/badge/View_Live_Application-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lubosmart.app)
 
@@ -98,7 +134,7 @@ A multi-role platform developed to connect online shopping, seller operations, l
 
 ---
 
-## 📊 GitHub Activity
+## <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;GitHub Activity
 
 <div align="center">
 
@@ -112,7 +148,7 @@ A multi-role platform developed to connect online shopping, seller operations, l
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://api.iconify.design/lucide:handshake.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Let's Connect
 
 I'm always interested in learning from other developers, exchanging ideas, and working on meaningful projects.
 
@@ -129,4 +165,3 @@ Whether it's about **backend development, software engineering, collaboration, o
 <sub>Always learning. Always building. Always improving.</sub>
 
 </div>
-```
