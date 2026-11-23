@@ -1,163 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7f1d1d,100:dc143c&height=240&section=header&text=Carl%20Matthew%20T.%20Castro&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20BS%20Information%20Technology%20Student&descSize=18&descColor=f5f5f5&descAlignY=58" alt="Carl Matthew T. Castro" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:181014,55:881337,100:e11d48&amp;height=280&amp;section=header&amp;text=Carl%20Matthew%20T.%20Castro&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=43&amp;desc=Backend%20Developer%20%7C%20Building%20systems%20with%20purpose.&amp;descSize=17&amp;descAlignY=64" width="100%" alt="Carl Matthew T. Castro — Backend Developer. Building systems with purpose." />
 
-<a href="https://lubosmart.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=680&lines=Building+reliable+web+applications;Designing+practical+REST+APIs;Turning+requirements+into+working+systems;Always+learning.+Building+with+purpose." alt="Typing animation" />
-</a>
+<br />
 
-<br/><br/>
+<a href="https://lubosmart.app"><img src="https://img.shields.io/badge/Explore_LubosMart-E11D48?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore LubosMart" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/carlmatthewcastro"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="mailto:ymkze.xviii@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-18181B?style=for-the-badge&amp;logo=gmail&amp;logoColor=FB7185" alt="Send me an email" /></a>
 
-[![LubosMart](https://img.shields.io/badge/LubosMart-Live_Project-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a)](https://lubosmart.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=DC143C)](https://www.linkedin.com/in/carlmatthewcastro)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0a0a0a?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/carlmatthewcastro)
-[![Facebook](https://img.shields.io/badge/Facebook-Message-0a0a0a?style=for-the-badge&logo=facebook&logoColor=DC143C)](https://facebook.com/ymkze.xviii)
-[![Email](https://img.shields.io/badge/Email-Contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=DC143C)](mailto:ymkze.xviii@gmail.com)
+<br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=carlmatthewcastro&label=PROFILE%20VIEWS&color=dc143c&labelColor=0a0a0a&style=flat-square" alt="Profile views" />
+<a href="#about">About</a> &nbsp; / &nbsp;
+<a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
+<a href="#featured-work">Featured work</a> &nbsp; / &nbsp;
+<a href="#connect">Connect</a>
+
+<br /><br />
+
+<strong>Behind every smooth experience is a system that works.</strong><br />
+<sub>That's the part I love building.</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,2&height=2&section=header" width="100%" alt="" />
+<br />
 
-## <img src="https://api.iconify.design/lucide:user-round.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;About Me
+<a id="about"></a>
+## 01 &nbsp; / &nbsp; A little about me
 
-I'm a **BS Information Technology student** at **Laguna State Polytechnic University – Santa Cruz Campus**, focused on **backend development**, **database-driven applications**, and **full-stack engineering**.
+I'm **Carl Matthew T. Castro**, a **BS Information Technology student** at **Laguna State Polytechnic University — Santa Cruz Campus**. I focus on backend development, database-driven applications, and understanding how the pieces of a full-stack system fit together.
 
-I enjoy turning requirements into working systems, understanding how the client and server communicate, and writing software that is secure and maintainable.
+I enjoy taking a requirement, working through the logic, and turning it into something people can use. My interests sit where **clear APIs**, **thoughtful database design**, and **maintainable code** meet.
 
 <table>
-  <tr>
-    <td width="46"><img src="https://api.iconify.design/lucide:hammer.svg?color=%23ef4444" width="20" alt="" /></td>
-    <td width="170"><b>Building with</b></td>
-    <td>PHP · Laravel · MySQL · JavaScript</td>
-  </tr>
-  <tr>
-    <td><img src="https://api.iconify.design/lucide:compass.svg?color=%23ef4444" width="20" alt="" /></td>
-    <td><b>Exploring</b></td>
-    <td>REST APIs · Application Security · Flutter · Python</td>
-  </tr>
-  <tr>
-    <td><img src="https://api.iconify.design/lucide:target.svg?color=%23ef4444" width="20" alt="" /></td>
-    <td><b>Interested in</b></td>
-    <td>Backend Architecture · Database Design · Cybersecurity</td>
-  </tr>
-  <tr>
-    <td><img src="https://api.iconify.design/lucide:guitar.svg?color=%23ef4444" width="20" alt="" /></td>
-    <td><b>Outside of code</b></td>
-    <td>Guitar · T1 Esports</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Building & learning
+
+**Working with**<br />
+PHP · Laravel · MySQL · JavaScript
+
+**Exploring**<br />
+REST APIs · Application security · Flutter · Python
+
+</td>
+<td width="50%" valign="top">
+
+### Beyond the editor
+
+**Interested in**<br />
+Backend architecture · Database design · Cybersecurity
+
+**Away from code**<br />
+Playing guitar · Following T1 Esports
+
+</td>
+</tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,2&height=2&section=header" width="100%" alt="" />
+<br />
 
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Tech Stack
+<a id="toolkit"></a>
+## 02 &nbsp; / &nbsp; My toolkit
 
-<div align="center">
-
-<sub><b>BACKEND &amp; LANGUAGES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,cs&theme=dark" alt="PHP, Laravel, Python, Java, C#" />
-
-<br/>
-
-<sub><b>FRONTEND &amp; MOBILE</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter&theme=dark" alt="HTML, CSS, JavaScript, Flutter" />
-
-<br/>
-
-<sub><b>DATABASE &amp; TOOLS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma,eclipse&theme=dark" alt="MySQL, Git, GitHub, VS Code, Android Studio, Figma, Eclipse" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,2&height=2&section=header" width="100%" alt="" />
-
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Featured Project
+The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** at the center of my current work.
 
 <div align="center">
 
-### [LubosMart](https://lubosmart.app)
-**E-Commerce &amp; Logistics Management System**
+<br />
 
-<sub>A multi-role platform connecting shopping, order processing, delivery operations, and returns.</sub>
+<strong>BACKEND & LANGUAGES</strong>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,java,cs&amp;theme=dark" height="48" alt="PHP, Laravel, Python, Java, and C sharp" />
 
-<img src="https://img.shields.io/badge/Laravel-0a0a0a?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-0a0a0a?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Flutter-0a0a0a?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-<img src="https://img.shields.io/badge/REST_API-0a0a0a?style=flat-square&logo=json&logoColor=DC143C" alt="REST API" />
+<br /><br />
+
+<strong>FRONTEND & MOBILE</strong>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter&amp;theme=dark" height="48" alt="HTML, CSS, JavaScript, and Flutter" />
+
+<br /><br />
+
+<strong>DATABASE & DEVELOPMENT TOOLS</strong>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma,eclipse&amp;theme=dark" height="48" alt="MySQL, Git, GitHub, Visual Studio Code, Android Studio, Figma, and Eclipse" />
 
 </div>
 
-<br/>
+<br /><br />
 
-<table>
-  <tr>
-    <td width="46"><img src="https://api.iconify.design/lucide:users.svg?color=%23ef4444" width="22" alt="" /></td>
-    <td><b>Role-based workflows</b> for buyers, sellers, administrators, logistics staff, and riders</td>
-  </tr>
-  <tr>
-    <td><img src="https://api.iconify.design/lucide:package-check.svg?color=%23ef4444" width="22" alt="" /></td>
-    <td><b>Order management</b>, delivery tracking, and return/refund processes</td>
-  </tr>
-  <tr>
-    <td><img src="https://api.iconify.design/lucide:smartphone.svg?color=%23ef4444" width="22" alt="" /></td>
-    <td><b>Rider mobile experience</b> with QR-based parcel handling and delivery proof workflows</td>
-  </tr>
-</table>
-
-<!--
-RECOMMENDED: add what YOU personally built, then delete the comment markers.
-> **My contribution:** Designed the database schema and implemented the order and return modules in Laravel.
--->
+<a id="featured-work"></a>
+## 03 &nbsp; / &nbsp; Featured work
 
 <div align="center">
 
-<br/>
-
-[![View Live Application](https://img.shields.io/badge/View_Live_Application-lubosmart.app-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a)](https://lubosmart.app)
+<a href="https://lubosmart.app"><img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:211018,100:881337&amp;height=190&amp;text=LubosMart&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=E-commerce%20%26%20Logistics%20Management&amp;descSize=19&amp;descAlignY=69" width="100%" alt="LubosMart — E-commerce and logistics management. Shopping, orders, delivery, and returns in one connected workflow." /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,2&height=2&section=header" width="100%" alt="" />
+### One platform. Connected workflows.
 
-## <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;GitHub Insights
+**[LubosMart](https://lubosmart.app)** is an e-commerce and logistics management system connecting shopping, order processing, delivery operations, and returns through a multi-role platform.
+
+| Area | What the system supports |
+| :--- | :--- |
+| **People & permissions** | Role-based workflows for buyers, sellers, administrators, logistics staff, and riders. |
+| **Orders & fulfillment** | Order management and delivery tracking across the fulfillment process. |
+| **Rider experience** | A mobile experience with QR-based parcel handling and proof of delivery workflows. |
+| **After-sales** | Return and refund processes connected to the order lifecycle. |
 
 <div align="center">
 
-<table>
-  <tr>
-    <td valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=carlmatthewcastro&show_icons=true&include_all_commits=true&hide_rank=true&custom_title=Developer%20Overview&card_width=420&bg_color=0d0d0f&title_color=ff3b4e&text_color=e5e5e5&icon_color=dc143c&border_color=3f0d12&border_radius=12" alt="GitHub stats" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&langs_count=6&custom_title=Top%20Languages&card_width=420&bg_color=0d0d0f&title_color=ff3b4e&text_color=e5e5e5&border_color=3f0d12&border_radius=12" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
+<img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&amp;logo=php&amp;logoColor=A5B4FC" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&amp;logo=mysql&amp;logoColor=38BDF8" alt="MySQL" />
+<img src="https://img.shields.io/badge/Flutter-18181B?style=flat-square&amp;logo=flutter&amp;logoColor=38BDF8" alt="Flutter" />
+<img src="https://img.shields.io/badge/REST_API-18181B?style=flat-square&amp;logo=json&amp;logoColor=FB7185" alt="REST API" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carlmatthewcastro&hide_border=false&border_radius=12&background=0d0d0f&stroke=3f0d12&ring=dc143c&fire=ff3b4e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff3b4e&sideLabels=e5e5e5&dates=a3a3a3&border=3f0d12" alt="GitHub streak" width="860" />
+<br /><br />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlmatthewcastro&bg_color=0d0d0f&color=e5e5e5&line=dc143c&point=ff3b4e&area=true&area_color=dc143c&hide_border=true&radius=12&custom_title=Contribution%20Activity&title_color=ff3b4e" alt="Contribution activity graph" width="100%" />
+**[Explore the application ↗](https://lubosmart.app)**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,2&height=2&section=header" width="100%" alt="" />
+<!-- Optional: add your specific contributions here when ready. Describe only the modules and responsibilities you personally handled. -->
 
-## <img src="https://api.iconify.design/lucide:handshake.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Let's Connect
+<br />
 
-I'm open to **backend development opportunities**, **collaborative projects**, and learning from other developers.
+<a id="connect"></a>
+## 04 &nbsp; / &nbsp; Let's build something useful
+
+I'm open to **backend development opportunities**, **collaborative projects**, and conversations with developers who enjoy sharing what they learn.
+
+Have a project in mind or want to compare notes? **[Send me an email](mailto:ymkze.xviii@gmail.com).**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DC143C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/carlmatthewcastro)
-[![Facebook](https://img.shields.io/badge/Facebook-Message-DC143C?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0a0a0a)](https://facebook.com/ymkze.xviii)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:ymkze.xviii@gmail.com)
+<br />
+
+<a href="mailto:ymkze.xviii@gmail.com">Email</a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/carlmatthewcastro">LinkedIn</a> &nbsp; / &nbsp;
+<a href="https://github.com/carlmatthewcastro">GitHub</a> &nbsp; / &nbsp;
+<a href="https://facebook.com/ymkze.xviii">Facebook</a>
+
+<br /><br />
+
+---
+
+<sub><strong>CARL MATTHEW T. CASTRO</strong><br />Learning with intention. Building with purpose.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc143c,55:7f1d1d,100:0a0a0a&height=120&section=footer" width="100%" alt="" />
