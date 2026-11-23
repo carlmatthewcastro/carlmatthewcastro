@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:181014,55:881337,100:e11d48&amp;height=280&amp;section=header&amp;text=Carl%20Matthew%20T.%20Castro&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=43&amp;desc=Backend%20Developer%20%7C%20Building%20systems%20with%20purpose.&amp;descSize=17&amp;descAlignY=64" width="100%" alt="Carl Matthew T. Castro — Backend Developer. Building systems with purpose." />
+<h3>CARL MATTHEW T. CASTRO</h3>
+<h1>Building systems.<br />Connecting the pieces.</h1>
+<p><strong>Backend Developer &nbsp;·&nbsp; BS Information Technology Student</strong></p>
+<p>PHP / Laravel / MySQL / JavaScript</p>
 
 <br />
 
@@ -10,14 +13,14 @@
 &nbsp;
 <a href="mailto:ymkze.xviii@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-18181B?style=for-the-badge&amp;logo=gmail&amp;logoColor=FB7185" alt="Send me an email" /></a>
 
-<br /><br />
+<br />
 
 <a href="#about">About</a> &nbsp; / &nbsp;
 <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
 <a href="#featured-work">Featured work</a> &nbsp; / &nbsp;
 <a href="#connect">Connect</a>
 
-<br /><br />
+<br />
 
 <strong>Behind every smooth experience is a system that works.</strong><br />
 <sub>That's the part I love building.</sub>
@@ -27,6 +30,7 @@
 <br />
 
 <a id="about"></a>
+
 ## 01 &nbsp; / &nbsp; A little about me
 
 I'm **Carl Matthew T. Castro**, a **BS Information Technology student** at **Laguna State Polytechnic University — Santa Cruz Campus**. I focus on backend development, database-driven applications, and understanding how the pieces of a full-stack system fit together.
@@ -63,6 +67,7 @@ Playing guitar · Following T1 Esports
 <br />
 
 <a id="toolkit"></a>
+
 ## 02 &nbsp; / &nbsp; My toolkit
 
 The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** at the center of my current work.
@@ -75,13 +80,13 @@ The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** 
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,java,cs&amp;theme=dark" height="48" alt="PHP, Laravel, Python, Java, and C sharp" />
 
-<br /><br />
+<br />
 
 <strong>FRONTEND & MOBILE</strong>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,flutter&amp;theme=dark" height="48" alt="HTML, CSS, JavaScript, and Flutter" />
 
-<br /><br />
+<br />
 
 <strong>DATABASE & DEVELOPMENT TOOLS</strong>
 
@@ -89,14 +94,18 @@ The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** 
 
 </div>
 
-<br /><br />
+<br />
 
 <a id="featured-work"></a>
+
 ## 03 &nbsp; / &nbsp; Featured work
 
 <div align="center">
 
-<a href="https://lubosmart.app"><img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:211018,100:881337&amp;height=190&amp;text=LubosMart&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=E-commerce%20%26%20Logistics%20Management&amp;descSize=19&amp;descAlignY=69" width="100%" alt="LubosMart — E-commerce and logistics management. Shopping, orders, delivery, and returns in one connected workflow." /></a>
+<h3>FEATURED PROJECT</h3>
+<h1><a href="https://lubosmart.app">LubosMart ↗</a></h1>
+<p><strong>E-Commerce &amp; Logistics Management System</strong></p>
+<p>Shopping &nbsp;→&nbsp; Orders &nbsp;→&nbsp; Delivery &nbsp;→&nbsp; Returns</p>
 
 </div>
 
@@ -119,7 +128,7 @@ The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** 
 <img src="https://img.shields.io/badge/Flutter-18181B?style=flat-square&amp;logo=flutter&amp;logoColor=38BDF8" alt="Flutter" />
 <img src="https://img.shields.io/badge/REST_API-18181B?style=flat-square&amp;logo=json&amp;logoColor=FB7185" alt="REST API" />
 
-<br /><br />
+<br />
 
 **[Explore the application ↗](https://lubosmart.app)**
 
@@ -130,6 +139,7 @@ The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** 
 <br />
 
 <a id="connect"></a>
+
 ## 04 &nbsp; / &nbsp; Let's build something useful
 
 I'm open to **backend development opportunities**, **collaborative projects**, and conversations with developers who enjoy sharing what they learn.
@@ -145,7 +155,7 @@ Have a project in mind or want to compare notes? **[Send me an email](mailto:ymk
 <a href="https://github.com/carlmatthewcastro">GitHub</a> &nbsp; / &nbsp;
 <a href="https://facebook.com/ymkze.xviii">Facebook</a>
 
-<br /><br />
+<br />
 
 ---
 
