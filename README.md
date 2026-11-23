@@ -1,318 +1,167 @@
 <div align="center">
 
-<h3>CARL MATTHEW T. CASTRO</h3>
-<h1>Building systems.<br />Connecting the pieces.</h1>
-<p><strong>Backend Developer &nbsp;·&nbsp; BS Information Technology Student</strong></p>
-<p>PHP / Laravel / MySQL / JavaScript</p><div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0f&height=150&section=header&text=Carl%20Matthew%20T.%20Castro&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%7C%20BSIT%20Student&descSize=17&descColor=ef4444&descAlignY=72" width="100%" alt="Carl Matthew T. Castro" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:181014,55:881337,100:e11d48&amp;height=280&amp;section=header&amp;text=Carl%20Matthew%20T.%20Castro&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=43&amp;desc=Backend%20Developer%20%7C%20Building%20systems%20with%20purpose.&amp;descSize=17&amp;descAlignY=64" width="100%" alt="Carl Matthew T. Castro — Backend Developer. Building systems with purpose." />
+### <img src="https://api.iconify.design/lucide:hand.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Hi, I'm Matthew
 
-<br />
+**Backend Development · Database Systems · Full-Stack Engineering**
 
-<a href="https://lubosmart.app"><img src="https://img.shields.io/badge/Explore_LubosMart-E11D48?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore LubosMart" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/carlmatthewcastro"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-&nbsp;
-<a href="mailto:ymkze.xviii@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-18181B?style=for-the-badge&amp;logo=gmail&amp;logoColor=FB7185" alt="Send me an email" /></a>
+I'm passionate about building practical applications, designing reliable systems, and continuously improving my skills as a developer.
 
-<br /><br />
-
-<a href="#about">About</a> &nbsp; / &nbsp;
-<a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-<a href="#featured-work">Featured work</a> &nbsp; / &nbsp;
-<a href="#connect">Connect</a>
-
-<br /><br />
-
-<strong>Behind every smooth experience is a system that works.</strong><br />
-<sub>That's the part I love building.</sub>
+[![Portfolio](https://img.shields.io/badge/Live_Project-DC143C?style=flat-square&logo=googlechrome&logoColor=white)](https://lubosmart.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlmatthewcastro)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/carlmatthewcastro)
+[![Email](https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white)](mailto:ymkze.xviii@gmail.com)
 
 </div>
-
-<br />
-
-<a id="about"></a>
-## 01 &nbsp; / &nbsp; A little about me
-
-I'm **Carl Matthew T. Castro**, a **BS Information Technology student** at **Laguna State Polytechnic University — Santa Cruz Campus**. I focus on backend development, database-driven applications, and understanding how the pieces of a full-stack system fit together.
-
-I enjoy taking a requirement, working through the logic, and turning it into something people can use. My interests sit where **clear APIs**, **thoughtful database design**, and **maintainable code** meet.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Building & learning
-
-**Working with**<br />
-PHP · Laravel · MySQL · JavaScript
-
-**Exploring**<br />
-REST APIs · Application security · Flutter · Python
-
-</td>
-<td width="50%" valign="top">
-
-### Beyond the editor
-
-**Interested in**<br />
-Backend architecture · Database design · Cybersecurity
-
-**Away from code**<br />
-Playing guitar · Following T1 Esports
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<a id="toolkit"></a>
-## 02 &nbsp; / &nbsp; My toolkit
-
-The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** at the center of my current work.
-
-<div align="center">
-
-<br />
-
-<strong>BACKEND & LANGUAGES</strong>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,cs&amp;theme=dark" height="48" alt="PHP, Laravel, Python, Java, and C sharp" />
-
-<br /><br />
-
-<strong>FRONTEND & MOBILE</strong>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter&amp;theme=dark" height="48" alt="HTML, CSS, JavaScript, and Flutter" />
-
-<br /><br />
-
-<strong>DATABASE & DEVELOPMENT TOOLS</strong>
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma,eclipse&amp;theme=dark" height="48" alt="MySQL, Git, GitHub, Visual Studio Code, Android Studio, Figma, and Eclipse" />
-
-</div>
-
-<br /><br />
-
-<a id="featured-work"></a>
-## 03 &nbsp; / &nbsp; Featured work
-
-<div align="center">
-
-<a href="https://lubosmart.app"><img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=0:211018,100:881337&amp;height=190&amp;text=LubosMart&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=E-commerce%20%26%20Logistics%20Management&amp;descSize=19&amp;descAlignY=69" width="100%" alt="LubosMart — E-commerce and logistics management. Shopping, orders, delivery, and returns in one connected workflow." /></a>
-
-</div>
-
-### One platform. Connected workflows.
-
-**[LubosMart](https://lubosmart.app)** is an e-commerce and logistics management system connecting shopping, order processing, delivery operations, and returns through a multi-role platform.
-
-| Area | What the system supports |
-| :--- | :--- |
-| **People & permissions** | Role-based workflows for buyers, sellers, administrators, logistics staff, and riders. |
-| **Orders & fulfillment** | Order management and delivery tracking across the fulfillment process. |
-| **Rider experience** | A mobile experience with QR-based parcel handling and proof of delivery workflows. |
-| **After-sales** | Return and refund processes connected to the order lifecycle. |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&amp;logo=php&amp;logoColor=A5B4FC" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&amp;logo=mysql&amp;logoColor=38BDF8" alt="MySQL" />
-<img src="https://img.shields.io/badge/Flutter-18181B?style=flat-square&amp;logo=flutter&amp;logoColor=38BDF8" alt="Flutter" />
-<img src="https://img.shields.io/badge/REST_API-18181B?style=flat-square&amp;logo=json&amp;logoColor=FB7185" alt="REST API" />
-
-<br /><br />
-
-**[Explore the application ↗](https://lubosmart.app)**
-
-</div>
-
-<!-- Optional: add your specific contributions here when ready. Describe only the modules and responsibilities you personally handled. -->
-
-<br />
-
-<a id="connect"></a>
-## 04 &nbsp; / &nbsp; Let's build something useful
-
-I'm open to **backend development opportunities**, **collaborative projects**, and conversations with developers who enjoy sharing what they learn.
-
-Have a project in mind or want to compare notes? **[Send me an email](mailto:ymkze.xviii@gmail.com).**
-
-<div align="center">
-
-<br />
-
-<a href="mailto:ymkze.xviii@gmail.com">Email</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/carlmatthewcastro">LinkedIn</a> &nbsp; / &nbsp;
-<a href="https://github.com/carlmatthewcastro">GitHub</a> &nbsp; / &nbsp;
-<a href="https://facebook.com/ymkze.xviii">Facebook</a>
-
-<br /><br />
 
 ---
 
-<sub><strong>CARL MATTHEW T. CASTRO</strong><br />Learning with intention. Building with purpose.</sub>
+## <img src="https://api.iconify.design/lucide:user-round.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;About Me
 
-</div>
+I'm a **Bachelor of Science in Information Technology student** at **Laguna State Polytechnic University – Santa Cruz Campus**, with a strong interest in backend development, database-driven applications, and software engineering.
 
+I enjoy understanding how applications work behind the scenes, from database structures and API communication to business logic and system integration.
 
-<br />
-
-<a href="https://lubosmart.app"><img src="https://img.shields.io/badge/Explore_LubosMart-E11D48?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore LubosMart" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/carlmatthewcastro"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
-&nbsp;
-<a href="mailto:ymkze.xviii@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-18181B?style=for-the-badge&amp;logo=gmail&amp;logoColor=FB7185" alt="Send me an email" /></a>
-
-<br />
-
-<a href="#about">About</a> &nbsp; / &nbsp;
-<a href="#toolkit">Toolkit</a> &nbsp; / &nbsp;
-<a href="#featured-work">Featured work</a> &nbsp; / &nbsp;
-<a href="#connect">Connect</a>
-
-<br />
-
-<strong>Behind every smooth experience is a system that works.</strong><br />
-<sub>That's the part I love building.</sub>
-
-</div>
-
-<br />
-
-<a id="about"></a>
-
-## 01 &nbsp; / &nbsp; A little about me
-
-I'm **Carl Matthew T. Castro**, a **BS Information Technology student** at **Laguna State Polytechnic University — Santa Cruz Campus**. I focus on backend development, database-driven applications, and understanding how the pieces of a full-stack system fit together.
-
-I enjoy taking a requirement, working through the logic, and turning it into something people can use. My interests sit where **clear APIs**, **thoughtful database design**, and **maintainable code** meet.
+My goal is to become a skilled software developer capable of building applications that are **reliable, maintainable, secure, and useful in real-world situations**.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Building & learning
-
-**Working with**<br />
-PHP · Laravel · MySQL · JavaScript
-
-**Exploring**<br />
-REST APIs · Application security · Flutter · Python
-
-</td>
-<td width="50%" valign="top">
-
-### Beyond the editor
-
-**Interested in**<br />
-Backend architecture · Database design · Cybersecurity
-
-**Away from code**<br />
-Playing guitar · Following T1 Esports
-
-</td>
-</tr>
+  <tr>
+    <td width="40"><img src="https://api.iconify.design/lucide:telescope.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td width="210"><b>Currently working on</b></td>
+    <td>Improving my backend and full-stack development skills</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:sprout.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Currently exploring</b></td>
+    <td>REST APIs, application security, Flutter, and Python</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:lightbulb.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Interested in</b></td>
+    <td>Backend architecture, database design, and cybersecurity</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:target.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>My focus</b></td>
+    <td>Writing better code, understanding systems, and learning through practical projects</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:guitar.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Beyond programming</b></td>
+    <td>Playing guitar and following T1 Esports</td>
+  </tr>
 </table>
-
-<br />
-
-<a id="toolkit"></a>
-
-## 02 &nbsp; / &nbsp; My toolkit
-
-The tools I work with and continue to explore, with **PHP, Laravel, and MySQL** at the center of my current work.
-
-<div align="center">
-
-<br />
-
-<strong>BACKEND & LANGUAGES</strong>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,java,cs&amp;theme=dark" height="48" alt="PHP, Laravel, Python, Java, and C sharp" />
-
-<br />
-
-<strong>FRONTEND & MOBILE</strong>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter&amp;theme=dark" height="48" alt="HTML, CSS, JavaScript, and Flutter" />
-
-<br />
-
-<strong>DATABASE & DEVELOPMENT TOOLS</strong>
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma,eclipse&amp;theme=dark" height="48" alt="MySQL, Git, GitHub, Visual Studio Code, Android Studio, Figma, and Eclipse" />
-
-</div>
-
-<br />
-
-<a id="featured-work"></a>
-
-## 03 &nbsp; / &nbsp; Featured work
-
-<div align="center">
-
-<h3>FEATURED PROJECT</h3>
-<h1><a href="https://lubosmart.app">LubosMart ↗</a></h1>
-<p><strong>E-Commerce &amp; Logistics Management System</strong></p>
-<p>Shopping &nbsp;→&nbsp; Orders &nbsp;→&nbsp; Delivery &nbsp;→&nbsp; Returns</p>
-
-</div>
-
-### One platform. Connected workflows.
-
-**[LubosMart](https://lubosmart.app)** is an e-commerce and logistics management system connecting shopping, order processing, delivery operations, and returns through a multi-role platform.
-
-| Area | What the system supports |
-| :--- | :--- |
-| **People & permissions** | Role-based workflows for buyers, sellers, administrators, logistics staff, and riders. |
-| **Orders & fulfillment** | Order management and delivery tracking across the fulfillment process. |
-| **Rider experience** | A mobile experience with QR-based parcel handling and proof of delivery workflows. |
-| **After-sales** | Return and refund processes connected to the order lifecycle. |
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Laravel-18181B?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHP-18181B?style=flat-square&amp;logo=php&amp;logoColor=A5B4FC" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&amp;logo=mysql&amp;logoColor=38BDF8" alt="MySQL" />
-<img src="https://img.shields.io/badge/Flutter-18181B?style=flat-square&amp;logo=flutter&amp;logoColor=38BDF8" alt="Flutter" />
-<img src="https://img.shields.io/badge/REST_API-18181B?style=flat-square&amp;logo=json&amp;logoColor=FB7185" alt="REST API" />
-
-<br />
-
-**[Explore the application ↗](https://lubosmart.app)**
-
-</div>
-
-<!-- Optional: add your specific contributions here when ready. Describe only the modules and responsibilities you personally handled. -->
-
-<br />
-
-<a id="connect"></a>
-
-## 04 &nbsp; / &nbsp; Let's build something useful
-
-I'm open to **backend development opportunities**, **collaborative projects**, and conversations with developers who enjoy sharing what they learn.
-
-Have a project in mind or want to compare notes? **[Send me an email](mailto:ymkze.xviii@gmail.com).**
-
-<div align="center">
-
-<br />
-
-<a href="mailto:ymkze.xviii@gmail.com">Email</a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/carlmatthewcastro">LinkedIn</a> &nbsp; / &nbsp;
-<a href="https://github.com/carlmatthewcastro">GitHub</a> &nbsp; / &nbsp;
-<a href="https://facebook.com/ymkze.xviii">Facebook</a>
-
-<br />
 
 ---
 
-<sub><strong>CARL MATTHEW T. CASTRO</strong><br />Learning with intention. Building with purpose.</sub>
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Tech Stack
+
+<div align="center">
+
+**Primary Technologies**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js&theme=dark" alt="PHP, Laravel, MySQL, JavaScript" />
+
+<br/><br/>
+
+**Other Languages & Frameworks**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,python,java,cs,flutter&theme=dark" alt="HTML, CSS, Python, Java, C Sharp, Flutter" />
+
+<br/><br/>
+
+**Development Tools**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,eclipse&theme=dark" alt="Git, GitHub, VS Code, Android Studio, Figma, Eclipse" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Featured Project
+
+<div align="center">
+
+### [LubosMart](https://lubosmart.app)
+
+**E-Commerce & Logistics Management System**
+
+A multi-role platform developed to connect online shopping, seller operations, logistics management, deliveries, and return/refund workflows.
+
+<img src="https://img.shields.io/badge/PHP-171717?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-171717?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+<img src="https://img.shields.io/badge/MySQL-171717?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Flutter-171717?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+<img src="https://img.shields.io/badge/REST_API-171717?style=flat-square&logo=json&logoColor=EF4444" alt="REST API" />
+
+</div>
+
+### Project Highlights
+
+<table>
+  <tr>
+    <td width="40"><img src="https://api.iconify.design/lucide:users.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Role-based system:</b> Different workflows for administrators, logistics personnel, riders, sellers, and buyers.</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:package-check.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Order and logistics management:</b> Order processing, parcel handling, tracking, and delivery operations.</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:undo-2.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Returns and refunds:</b> Structured workflows for managing return requests and refund processing.</td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide:smartphone.svg?color=%23dc143c" width="20" alt="" /></td>
+    <td><b>Rider mobile application:</b> Mobile integration for rider assignments, QR-based parcel handling, and delivery proof workflows.</td>
+  </tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+[![View Live Application](https://img.shields.io/badge/View_Live_Application-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lubosmart.app)
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlmatthewcastro&layout=compact&langs_count=6&hide_border=true&bg_color=0d0d0f&title_color=ef4444&text_color=e5e5e5" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlmatthewcastro&bg_color=0d0d0f&color=e5e5e5&line=dc143c&point=ef4444&area=true&area_color=4a0a14&hide_border=true&custom_title=Contribution%20Activity&title_color=ef4444" width="100%" alt="GitHub Contribution Activity" />
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/lucide:handshake.svg?color=%23dc143c" height="26" align="absmiddle" alt="" /> &nbsp;Let's Connect
+
+I'm always interested in learning from other developers, exchanging ideas, and working on meaningful projects.
+
+Whether it's about **backend development, software engineering, collaboration, or technology**, feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d0d0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlmatthewcastro)
+[![Facebook](https://img.shields.io/badge/Facebook-Message-0d0d0f?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ymkze.xviii)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ymkze.xviii@gmail.com)
+
+<br/>
+
+<sub>Always learning. Always building. Always improving.</sub>
 
 </div>
