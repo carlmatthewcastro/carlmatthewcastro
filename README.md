@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251c,50:326b3f,100:a3b85c&height=90&section=header&fontColor=ffffff" width="100%" alt="banner"/></a>
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251c,50:326b3f,100:a3b85c&height=120&section=header&fontColor=ffffff" width="100%" alt="banner"/></a>
 
 # Hi there <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"></a>, I'm **Carl Matthew T. Castro**
 
@@ -41,6 +41,7 @@
 
 | | Focus |
 |:-:|:--|
+| <a href="https://github.com/carlmatthewcastro/lubosmart-app" title="LubosMart project"><img src="assets/lubosmart.svg" width="32" height="32" alt="LubosMart"/></a> | [**LubosMart**](https://github.com/carlmatthewcastro/lubosmart-app) — An e-commerce and delivery platform for local communities, built with **Laravel, React, and TypeScript**. [Visit website](https://lubosmart.app) |
 | <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/web-development.png" width="32" height="32" alt=""/></a> | Developing full-stack web applications using **Laravel**. |
 | <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/backend.png" width="32" height="32" alt=""/></a> | Mastering the **request lifecycle** and client-server architecture. |
 | <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/version-control.png" width="32" height="32" alt=""/></a> | Improving **Git** and **GitHub** workflows for source-code management. |
