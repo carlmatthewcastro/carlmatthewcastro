@@ -4,7 +4,7 @@
 
 # Hi there <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"></a>, I'm **Carl Matthew T. Castro**
 
-<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A3E635&width=435&height=32&vCenter=true&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" width="435" height="32" alt="Typing SVG" /></a>
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A3E635&width=435&height=32&vCenter=true&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" width="435" alt="Typing SVG" /></a>
 
 <p align="center">
 <a href="https://github.com/carlmatthewcastro" title="Profile views"><img src="https://komarev.com/ghpvc/?username=carlmatthewcastro&style=for-the-badge&color=326b3f" width="157" height="28" align="absmiddle" alt="Profile Views"/></a>&nbsp;
