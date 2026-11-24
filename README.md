@@ -1,13 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c0011,50:7a0019,100:9b1030&height=200&section=header&fontColor=ffffff" width="100%" alt="banner"/>
+
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave">, I'm **Carl Matthew T. Castro**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8294B&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/carlmatthewcastro)
-[![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=00ff99&style=for-the-badge)](https://github.com/carlmatthewcastro?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=7a0019&style=for-the-badge)](https://github.com/carlmatthewcastro)
+[![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=9b1030&style=for-the-badge)](https://github.com/carlmatthewcastro?tab=followers)
 
 <br>
 
@@ -23,7 +25,7 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="24" align="center"/>&nbsp; About Me
+## 👤 About Me
 
 | | |
 |:--|:--|
@@ -35,7 +37,7 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3468/3468377.png" width="24" align="center"/>&nbsp; Goals
+## 🎯 Goals
 
 - 🚀 Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development**
 - 🌱 Create **impactful projects** that benefit my community
@@ -43,7 +45,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/project.png" width="24" align="center"/>&nbsp; Current Projects
+## 🛠️ Current Projects
 
 - 🛠️ Developing full-stack web applications using **Laravel**.
 - 🔄 Mastering the **request lifecycle** and client-server architecture.
@@ -53,7 +55,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/star.png" width="24" align="center"/>&nbsp; Recent Milestones
+## 🏆 Recent Milestones
 
 | | Milestone | Details |
 |:-:|:--|:--|
@@ -63,7 +65,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/code.png" width="24" align="center"/>&nbsp; Languages & Tools
+## 💻 Languages & Tools
 
 <div align="center">
 
@@ -86,7 +88,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/color/48/computer-support.png" width="24" align="center"/>&nbsp; Skills
+## 🧠 Skills
 
 | Category | Stack |
 |:--|:--|
@@ -99,5 +101,7 @@
 <div align="center">
 
 *✨ Always eager to explore and learn new technologies ✨*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b1030,50:7a0019,100:5c0011&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
