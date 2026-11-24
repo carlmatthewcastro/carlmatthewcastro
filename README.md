@@ -8,8 +8,10 @@
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=carlmatthewcastro&label=Profile%20Views&color=326b3f&style=for-the-badge)](https://github.com/carlmatthewcastro)
-[![Followers](https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=b49a54&style=for-the-badge)](https://github.com/carlmatthewcastro?tab=followers)
+<p align="center">
+<a href="https://github.com/carlmatthewcastro" title="Profile views"><img src="https://komarev.com/ghpvc/?username=carlmatthewcastro&style=for-the-badge&color=326b3f" width="157" height="28" align="absmiddle" alt="Profile Views"/></a>&nbsp;
+<a href="https://github.com/carlmatthewcastro?tab=followers" title="GitHub followers"><img src="https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=b49a54&style=for-the-badge" width="130" height="28" align="absmiddle" alt="Followers"/></a>
+</p>
 
 <br>
 
@@ -65,8 +67,7 @@
 
 ## <img src="assets/languages-tools.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; Languages & Tools
 
-<div align="center">
-
+<p align="center">
 <a href="https://www.php.net/" title="PHP"><img src="assets/php.png" width="56" height="56" alt="PHP"/></a>&nbsp;
 <a href="https://laravel.com/" title="Laravel"><img src="assets/laravel.png" width="56" height="56" alt="Laravel"/></a>&nbsp;
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="assets/csharp.png" width="56" height="56" alt="C#"/></a>&nbsp;
@@ -74,17 +75,14 @@
 <a href="https://www.python.org/" title="Python"><img src="assets/python.png" width="56" height="56" alt="Python"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="assets/html.png" width="56" height="56" alt="HTML5"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="assets/css.png" width="56" height="56" alt="CSS3"/></a>
-
-<br><br>
-
+<br />
 <a href="https://www.mysql.com/" title="MySQL"><img src="assets/mysql.png" width="56" height="56" alt="MySQL"/></a>&nbsp;
 <a href="https://flutter.dev/" title="Flutter"><img src="assets/flutter.png" width="56" height="56" alt="Flutter"/></a>&nbsp;
 <a href="https://developer.android.com/studio" title="Android Studio"><img src="assets/android-studio.png" width="56" height="56" alt="Android Studio"/></a>&nbsp;
 <a href="https://www.figma.com/" title="Figma"><img src="assets/figma.png" width="56" height="56" alt="Figma"/></a>&nbsp;
 <a href="https://code.visualstudio.com/" title="VS Code"><img src="assets/vscode.png" width="56" height="56" alt="VS Code"/></a>&nbsp;
 <a href="https://www.eclipse.org/" title="Eclipse"><img src="assets/eclipse.png" width="56" height="56" alt="Eclipse"/></a>
-
-</div>
+</p>
 
 ---
 
