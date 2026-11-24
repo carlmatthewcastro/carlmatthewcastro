@@ -13,11 +13,11 @@
 
 <br>
 
-<a href="https://facebook.com/ymkze.xviii" target="_blank"><img src="zaun-icons-transparent/social/facebook.png" width="48" alt="Facebook"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/ymkze.xviii" target="_blank"><img src="zaun-icons-transparent/social/instagram.png" width="48" alt="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/carlmatthewcastro" target="_blank"><img src="zaun-icons-transparent/social/linkedin.png" width="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://youtube.com/@ymkzexviii" target="_blank"><img src="zaun-icons-transparent/social/youtube.png" width="48" alt="YouTube"/></a>&nbsp;&nbsp;
-<a href="mailto:ymkze.xviii@gmail.com" target="_blank"><img src="zaun-icons-transparent/social/gmail.png" width="48" alt="Gmail"/></a>
+<a href="https://facebook.com/ymkze.xviii" target="_blank"><img src="assets/icons/social/facebook.png" width="48" alt="Facebook"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ymkze.xviii" target="_blank"><img src="assets/icons/social/instagram.png" width="48" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/carlmatthewcastro" target="_blank"><img src="assets/icons/social/linkedin.png" width="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://youtube.com/@ymkzexviii" target="_blank"><img src="assets/icons/social/youtube.png" width="48" alt="YouTube"/></a>&nbsp;&nbsp;
+<a href="mailto:ymkze.xviii@gmail.com" target="_blank"><img src="assets/icons/social/gmail.png" width="48" alt="Gmail"/></a>
 
 </div>
 
@@ -25,80 +25,80 @@
 
 ---
 
-## <img src="zaun-icons-transparent/sections/about-me.png" width="40" align="absmiddle" alt=""/>&nbsp; About Me
+## <img src="assets/icons/sections/about-me.png" width="40" align="absmiddle" alt=""/>&nbsp; About Me
 
-| | | |
+| ![Icon](assets/labels/icon.svg) | ![Field](assets/labels/field.svg) | ![Details](assets/labels/details.svg) |
 |:-:|:--|:--|
-| <img src="zaun-icons-transparent/personal/age.png" width="34" alt=""/> | **Age** | 22 |
-| <img src="zaun-icons-transparent/personal/education.png" width="34" alt=""/> | **Currently enrolled at** | Laguna State Polytechnic University – Santa Cruz Campus |
-| <img src="zaun-icons-transparent/personal/program.png" width="34" alt=""/> | **Program** | Bachelor of Science in Information Technology (BSIT) |
-| <img src="zaun-icons-transparent/personal/passion.png" width="34" alt=""/> | **Passionate about** | Cybersecurity & Software Development |
-| <img src="zaun-icons-transparent/personal/fun-fact.png" width="34" alt=""/> | **Fun fact** | I love playing the guitar and I'm a proud fan of **T1 Esports!** |
+| <img src="assets/icons/personal/age.png" width="34" alt=""/> | **Age** | 22 |
+| <img src="assets/icons/personal/education.png" width="34" alt=""/> | **Currently enrolled at** | Laguna State Polytechnic University – Santa Cruz Campus |
+| <img src="assets/icons/personal/program.png" width="34" alt=""/> | **Program** | Bachelor of Science in Information Technology (BSIT) |
+| <img src="assets/icons/personal/passion.png" width="34" alt=""/> | **Passionate about** | Cybersecurity & Software Development |
+| <img src="assets/icons/personal/fun-fact.png" width="34" alt=""/> | **Fun fact** | I love playing the guitar and I'm a proud fan of **T1 Esports!** |
 
 ---
 
-## <img src="zaun-icons-transparent/sections/goals.png" width="40" align="absmiddle" alt=""/>&nbsp; Goals
+## <img src="assets/icons/sections/goals.png" width="40" align="absmiddle" alt=""/>&nbsp; Goals
 
-| | |
+| ![Icon](assets/labels/icon.svg) | ![Goal](assets/labels/goal.svg) |
 |:-:|:--|
-| <img src="zaun-icons-transparent/projects/stack.png" width="34" alt=""/> | Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development** |
-| <img src="zaun-icons-transparent/projects/deployment.png" width="34" alt=""/> | Create **impactful projects** that benefit my community |
-| <img src="zaun-icons-transparent/projects/database.png" width="34" alt=""/> | Gain expertise in **databases (SQL)** and **full-stack development** |
+| <img src="assets/icons/projects/stack.png" width="34" alt=""/> | Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development** |
+| <img src="assets/icons/projects/deployment.png" width="34" alt=""/> | Create **impactful projects** that benefit my community |
+| <img src="assets/icons/projects/database.png" width="34" alt=""/> | Gain expertise in **databases (SQL)** and **full-stack development** |
 
 ---
 
-## <img src="zaun-icons-transparent/sections/current-projects.png" width="40" align="absmiddle" alt=""/>&nbsp; Current Projects
+## <img src="assets/icons/sections/current-projects.png" width="40" align="absmiddle" alt=""/>&nbsp; Current Projects
 
-| | |
+| ![Icon](assets/labels/icon.svg) | ![Focus](assets/labels/focus.svg) |
 |:-:|:--|
-| <img src="zaun-icons-transparent/projects/web-development.png" width="34" alt=""/> | Developing full-stack web applications using **Laravel**. |
-| <img src="zaun-icons-transparent/projects/backend.png" width="34" alt=""/> | Mastering the **request lifecycle** and client-server architecture. |
-| <img src="zaun-icons-transparent/projects/version-control.png" width="34" alt=""/> | Improving **Git** and **GitHub** workflows for source-code management. |
-| <img src="zaun-icons-transparent/skill-categories/programming.png" width="34" alt=""/> | Developing practice projects in Python, C#, and Java. |
-| <img src="zaun-icons-transparent/technology/android-studio.png" width="34" alt=""/> | Exploring mobile app development with **Flutter** and **Android Studio**. |
+| <img src="assets/icons/projects/web-development.png" width="34" alt=""/> | Developing full-stack web applications using **Laravel**. |
+| <img src="assets/icons/projects/backend.png" width="34" alt=""/> | Mastering the **request lifecycle** and client-server architecture. |
+| <img src="assets/icons/projects/version-control.png" width="34" alt=""/> | Improving **Git** and **GitHub** workflows for source-code management. |
+| <img src="assets/icons/skill-categories/programming.png" width="34" alt=""/> | Developing practice projects in Python, C#, and Java. |
+| <img src="assets/icons/technology/android-studio.png" width="34" alt=""/> | Exploring mobile app development with **Flutter** and **Android Studio**. |
 
 ---
 
-## <img src="zaun-icons-transparent/sections/recent-milestones.png" width="40" align="absmiddle" alt=""/>&nbsp; Recent Milestones
+## <img src="assets/icons/sections/recent-milestones.png" width="40" align="absmiddle" alt=""/>&nbsp; Recent Milestones
 
-| | Milestone | Details |
+| ![Icon](assets/labels/icon.svg) | ![Milestone](assets/labels/milestone.svg) | ![Details](assets/labels/details.svg) |
 |:-:|:--|:--|
-| <img src="zaun-icons-transparent/technology/laravel.png" width="34" alt=""/> | **Laravel Environment** | Successfully configured PHP, Composer, and Laravel, and deployed my first Laravel application. |
-| <img src="zaun-icons-transparent/projects/backend.png" width="34" alt=""/> | **Web Architecture** | Gained a deep understanding of the request lifecycle and how backend frameworks facilitate server-client communication. |
-| <img src="zaun-icons-transparent/projects/version-control.png" width="34" alt=""/> | **Version Control** | Strengthened collaborative skills and source-code management practices. |
+| <img src="assets/icons/technology/laravel.png" width="34" alt=""/> | **Laravel Environment** | Successfully configured PHP, Composer, and Laravel, and deployed my first Laravel application. |
+| <img src="assets/icons/projects/backend.png" width="34" alt=""/> | **Web Architecture** | Gained a deep understanding of the request lifecycle and how backend frameworks facilitate server-client communication. |
+| <img src="assets/icons/projects/version-control.png" width="34" alt=""/> | **Version Control** | Strengthened collaborative skills and source-code management practices. |
 
 ---
 
-## <img src="zaun-icons-transparent/sections/languages-tools.png" width="40" align="absmiddle" alt=""/>&nbsp; Languages & Tools
+## <img src="assets/icons/sections/languages-tools.png" width="40" align="absmiddle" alt=""/>&nbsp; Languages & Tools
 
 <div align="center">
 
-<a href="https://www.php.net/"><img src="zaun-icons-transparent/technology/php.png" width="56" alt="PHP"/></a>&nbsp;
-<a href="https://laravel.com/"><img src="zaun-icons-transparent/technology/laravel.png" width="56" alt="Laravel"/></a>&nbsp;
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="zaun-icons-transparent/technology/csharp.png" width="56" alt="C#"/></a>&nbsp;
-<a href="https://www.java.com/">Java</a>&nbsp;
-<a href="https://www.python.org/"><img src="zaun-icons-transparent/technology/python.png" width="56" alt="Python"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="zaun-icons-transparent/technology/html.png" width="56" alt="HTML5"/></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="zaun-icons-transparent/technology/css.png" width="56" alt="CSS3"/></a>
+<a href="https://www.php.net/"><img src="assets/icons/technology/php.png" width="56" alt="PHP"/></a>&nbsp;
+<a href="https://laravel.com/"><img src="assets/icons/technology/laravel.png" width="56" alt="Laravel"/></a>&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="assets/icons/technology/csharp.png" width="56" alt="C#"/></a>&nbsp;
+<a href="https://www.java.com/"><img src="assets/icons/technology/java.png" width="56" alt="Java"/></a>&nbsp;
+<a href="https://www.python.org/"><img src="assets/icons/technology/python.png" width="56" alt="Python"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/technology/html.png" width="56" alt="HTML5"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/technology/css.png" width="56" alt="CSS3"/></a>
 
-<a href="https://www.mysql.com/"><img src="zaun-icons-transparent/technology/mysql.png" width="56" alt="MySQL"/></a>&nbsp;
-<a href="https://flutter.dev/"><img src="zaun-icons-transparent/technology/flutter.png" width="56" alt="Flutter"/></a>&nbsp;
-<a href="https://developer.android.com/studio"><img src="zaun-icons-transparent/technology/android-studio.png" width="56" alt="Android Studio"/></a>&nbsp;
-<a href="https://www.figma.com/"><img src="zaun-icons-transparent/technology/figma.png" width="56" alt="Figma"/></a>&nbsp;
-<a href="https://code.visualstudio.com/"><img src="zaun-icons-transparent/technology/vscode.png" width="56" alt="VS Code"/></a>&nbsp;
-<a href="https://www.eclipse.org/">Eclipse</a>
+<a href="https://www.mysql.com/"><img src="assets/icons/technology/mysql.png" width="56" alt="MySQL"/></a>&nbsp;
+<a href="https://flutter.dev/"><img src="assets/icons/technology/flutter.png" width="56" alt="Flutter"/></a>&nbsp;
+<a href="https://developer.android.com/studio"><img src="assets/icons/technology/android-studio.png" width="56" alt="Android Studio"/></a>&nbsp;
+<a href="https://www.figma.com/"><img src="assets/icons/technology/figma.png" width="56" alt="Figma"/></a>&nbsp;
+<a href="https://code.visualstudio.com/"><img src="assets/icons/technology/vscode.png" width="56" alt="VS Code"/></a>&nbsp;
+<a href="https://www.eclipse.org/"><img src="assets/icons/technology/eclipse.png" width="56" alt="Eclipse"/></a>
 
 </div>
 
 ---
 
-## <img src="zaun-icons-transparent/sections/skills.png" width="40" align="absmiddle" alt=""/>&nbsp; Skills
+## <img src="assets/icons/sections/skills.png" width="40" align="absmiddle" alt=""/>&nbsp; Skills
 
-| | Category | Stack |
+| ![Icon](assets/labels/icon.svg) | ![Category](assets/labels/category.svg) | ![Stack](assets/labels/stack.svg) |
 |:-:|:--|:--|
-| <img src="zaun-icons-transparent/skill-categories/web-development.png" width="34" alt=""/> | **Web Development** | Laravel, PHP, HTML, CSS, JS |
-| <img src="zaun-icons-transparent/skill-categories/programming.png" width="34" alt=""/> | **Programming** | Python, Java, C# |
-| <img src="zaun-icons-transparent/skill-categories/database-tools.png" width="34" alt=""/> | **Database & Tools** | MySQL, Git, GitHub |
+| <img src="assets/icons/skill-categories/web-development.png" width="34" alt=""/> | **Web Development** | Laravel, PHP, HTML, CSS, JS |
+| <img src="assets/icons/skill-categories/programming.png" width="34" alt=""/> | **Programming** | Python, Java, C# |
+| <img src="assets/icons/skill-categories/database-tools.png" width="34" alt=""/> | **Database & Tools** | MySQL, Git, GitHub |
 
 <br>
 

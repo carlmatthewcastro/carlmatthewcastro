@@ -1,6 +1,6 @@
 param(
-    [string]$SourceDirectory = (Join-Path $PSScriptRoot '..\zaun-icons'),
-    [string]$OutputDirectory = (Join-Path $PSScriptRoot '..\zaun-icons-transparent')
+    [string]$SourceDirectory = (Join-Path $PSScriptRoot '..\assets\icon-sources'),
+    [string]$OutputDirectory = (Join-Path $PSScriptRoot '..\assets\icons')
 )
 
 $ErrorActionPreference = 'Stop'
@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
 
-public static class ZaunCutout {
+public static class IconCutout {
     public static int Remove(string source, string destination) {
         using (var input = new Bitmap(source))
         using (var output = new Bitmap(input.Width, input.Height, PixelFormat.Format32bppArgb)) {
@@ -25,13 +25,10 @@ public static class ZaunCutout {
             var background = new bool[w*h];
             var queue = new Queue<int>();
             for (int x = 0; x < w; x++) { queue.Enqueue(x); queue.Enqueue((h-1)*w+x); }
-            // This supplied browser icon is cropped through its right frame.
-            // Do not seed that exposed interior as background.
-            bool clippedRightFrame = source.Replace('\\', '/').EndsWith("skill-categories/web-development.png");
             int tolerance = source.Replace('\\', '/').EndsWith("skill-categories/programming.png") ? 26 : 18;
             for (int y = 0; y < h; y++) {
                 queue.Enqueue(y*w);
-                if (!clippedRightFrame) queue.Enqueue(y*w+w-1);
+                queue.Enqueue(y*w+w-1);
             }
             int removed = 0;
             while (queue.Count > 0) {
@@ -99,6 +96,6 @@ Get-ChildItem -LiteralPath $sourceRoot -Recurse -File -Filter '*.png' | ForEach-
     $relative = $_.FullName.Substring($sourceRoot.Length + 1)
     $destination = Join-Path $outputRoot $relative
     [IO.Directory]::CreateDirectory([IO.Path]::GetDirectoryName($destination)) | Out-Null
-    $removed = [ZaunCutout]::Remove($_.FullName, $destination)
+    $removed = [IconCutout]::Remove($_.FullName, $destination)
     [pscustomobject]@{ Icon = $relative; TransparentPixels = $removed }
 }
