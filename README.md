@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251c,50:326b3f,100:a3b85c&height=200&section=header&fontColor=ffffff" width="100%" alt="banner"/>
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251c,50:326b3f,100:a3b85c&height=200&section=header&fontColor=ffffff" width="100%" alt="banner"/></a>
 
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave">, I'm **Carl Matthew T. Castro**
+# Hi there <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"></a>, I'm **Carl Matthew T. Castro**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A3E635&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" />
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A3E635&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" /></a>
 
 <br>
 
@@ -21,51 +21,51 @@
 
 ---
 
-## <img src="assets/about-me.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; About Me
+## <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/about-me.png" width="32" height="32" align="absmiddle" alt=""/></a>&nbsp; About Me
 
 | | Field | Details |
 |:-:|:--|:--|
-| <img src="assets/age.png" width="32" height="32" alt=""/> | **Age** | 22 |
-| <img src="assets/education.png" width="32" height="32" alt=""/> | **Currently enrolled at** | Laguna State Polytechnic University – Santa Cruz Campus |
-| <img src="assets/program.png" width="32" height="32" alt=""/> | **Program** | Bachelor of Science in Information Technology (BSIT) |
-| <img src="assets/passion.png" width="32" height="32" alt=""/> | **Passionate about** | Cybersecurity & Software Development |
-| <img src="assets/fun-fact.png" width="32" height="32" alt=""/> | **Fun fact** | I love playing the guitar and I'm a proud fan of **T1 Esports!** |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/age.png" width="32" height="32" alt=""/></a> | **Age** | 22 |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/education.png" width="32" height="32" alt=""/></a> | **Currently enrolled at** | Laguna State Polytechnic University – Santa Cruz Campus |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/program.png" width="32" height="32" alt=""/></a> | **Program** | Bachelor of Science in Information Technology (BSIT) |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/passion.png" width="32" height="32" alt=""/></a> | **Passionate about** | Cybersecurity & Software Development |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/fun-fact.png" width="32" height="32" alt=""/></a> | **Fun fact** | I love playing the guitar and I'm a proud fan of **T1 Esports!** |
 
 ---
 
-## <img src="assets/goals.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; Goals
+## <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/goals.png" width="32" height="32" align="absmiddle" alt=""/></a>&nbsp; Goals
 
 | | Goal |
 |:-:|:--|
-| <img src="assets/stack.png" width="32" height="32" alt=""/> | Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development** |
-| <img src="assets/deployment.png" width="32" height="32" alt=""/> | Create **impactful projects** that benefit my community |
-| <img src="assets/database.png" width="32" height="32" alt=""/> | Gain expertise in **databases (SQL)** and **full-stack development** |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/stack.png" width="32" height="32" alt=""/></a> | Aiming to strengthen my expertise in **coding, backend/frontend development, and cross-platform application development** |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/deployment.png" width="32" height="32" alt=""/></a> | Create **impactful projects** that benefit my community |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/database.png" width="32" height="32" alt=""/></a> | Gain expertise in **databases (SQL)** and **full-stack development** |
 
 ---
 
-## <img src="assets/current-projects.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; Current Projects
+## <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/current-projects.png" width="32" height="32" align="absmiddle" alt=""/></a>&nbsp; Current Projects
 
 | | Focus |
 |:-:|:--|
-| <img src="assets/web-development.png" width="32" height="32" alt=""/> | Developing full-stack web applications using **Laravel**. |
-| <img src="assets/backend.png" width="32" height="32" alt=""/> | Mastering the **request lifecycle** and client-server architecture. |
-| <img src="assets/version-control.png" width="32" height="32" alt=""/> | Improving **Git** and **GitHub** workflows for source-code management. |
-| <img src="assets/programming.png" width="32" height="32" alt=""/> | Developing practice projects in Python, C#, and Java. |
-| <img src="assets/android-studio.png" width="32" height="32" alt=""/> | Exploring mobile app development with **Flutter** and **Android Studio**. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/web-development.png" width="32" height="32" alt=""/></a> | Developing full-stack web applications using **Laravel**. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/backend.png" width="32" height="32" alt=""/></a> | Mastering the **request lifecycle** and client-server architecture. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/version-control.png" width="32" height="32" alt=""/></a> | Improving **Git** and **GitHub** workflows for source-code management. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/programming.png" width="32" height="32" alt=""/></a> | Developing practice projects in Python, C#, and Java. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/android-studio.png" width="32" height="32" alt=""/></a> | Exploring mobile app development with **Flutter** and **Android Studio**. |
 
 ---
 
-## <img src="assets/recent-milestones.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; Recent Milestones
+## <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/recent-milestones.png" width="32" height="32" align="absmiddle" alt=""/></a>&nbsp; Recent Milestones
 
 | | Milestone | Details |
 |:-:|:--|:--|
-| <img src="assets/laravel.png" width="32" height="32" alt=""/> | **Laravel Environment** | Successfully configured PHP, Composer, and Laravel, and deployed my first Laravel application. |
-| <img src="assets/backend.png" width="32" height="32" alt=""/> | **Web Architecture** | Gained a deep understanding of the request lifecycle and how backend frameworks facilitate server-client communication. |
-| <img src="assets/version-control.png" width="32" height="32" alt=""/> | **Version Control** | Strengthened collaborative skills and source-code management practices. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/laravel.png" width="32" height="32" alt=""/></a> | **Laravel Environment** | Successfully configured PHP, Composer, and Laravel, and deployed my first Laravel application. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/backend.png" width="32" height="32" alt=""/></a> | **Web Architecture** | Gained a deep understanding of the request lifecycle and how backend frameworks facilitate server-client communication. |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/version-control.png" width="32" height="32" alt=""/></a> | **Version Control** | Strengthened collaborative skills and source-code management practices. |
 
 ---
 
-## <img src="assets/languages-tools.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; Languages & Tools
+## <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/languages-tools.png" width="32" height="32" align="absmiddle" alt=""/></a>&nbsp; Languages & Tools
 
 <p align="center">
 <a href="https://www.php.net/" title="PHP"><img src="assets/php.png" width="56" height="56" alt="PHP"/></a>&nbsp;
@@ -86,13 +86,13 @@
 
 ---
 
-## <img src="assets/skills.png" width="32" height="32" align="absmiddle" alt=""/>&nbsp; Skills
+## <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/skills.png" width="32" height="32" align="absmiddle" alt=""/></a>&nbsp; Skills
 
 | | Category | Stack |
 |:-:|:--|:--|
-| <img src="assets/web-development.png" width="32" height="32" alt=""/> | **Web Development** | Laravel, PHP, HTML, CSS, JS |
-| <img src="assets/programming.png" width="32" height="32" alt=""/> | **Programming** | Python, Java, C# |
-| <img src="assets/database-tools.png" width="32" height="32" alt=""/> | **Database & Tools** | MySQL, Git, GitHub |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/web-development.png" width="32" height="32" alt=""/></a> | **Web Development** | Laravel, PHP, HTML, CSS, JS |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/programming.png" width="32" height="32" alt=""/></a> | **Programming** | Python, Java, C# |
+| <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="assets/database-tools.png" width="32" height="32" alt=""/></a> | **Database & Tools** | MySQL, Git, GitHub |
 
 <br>
 
@@ -114,6 +114,6 @@
 
 *✨ Always eager to explore and learn new technologies ✨*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3b85c,50:326b3f,100:10251c&height=140&section=footer" width="100%" alt="footer"/>
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3b85c,50:326b3f,100:10251c&height=140&section=footer" width="100%" alt="footer"/></a>
 
 </div>
