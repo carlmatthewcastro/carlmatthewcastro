@@ -1,23 +1,17 @@
 <div align="center">
 
-<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251c,50:326b3f,100:a3b85c&height=200&section=header&fontColor=ffffff" width="100%" alt="banner"/></a>
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:10251c,50:326b3f,100:a3b85c&height=90&section=header&fontColor=ffffff" width="100%" alt="banner"/></a>
 
 # Hi there <a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="wave"></a>, I'm **Carl Matthew T. Castro**
 
-<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A3E635&width=435&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" alt="Typing SVG" /></a>
-
-<br>
+<a href="https://github.com/carlmatthewcastro/carlmatthewcastro#readme" title="Back to README"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A3E635&width=435&height=32&vCenter=true&center=true&lines=BSIT+Student;Backend+Developer;Learning+Python+%26+PHP" width="435" height="32" alt="Typing SVG" /></a>
 
 <p align="center">
 <a href="https://github.com/carlmatthewcastro" title="Profile views"><img src="https://komarev.com/ghpvc/?username=carlmatthewcastro&style=for-the-badge&color=326b3f" width="157" height="28" align="absmiddle" alt="Profile Views"/></a>&nbsp;
 <a href="https://github.com/carlmatthewcastro?tab=followers" title="GitHub followers"><img src="https://img.shields.io/github/followers/carlmatthewcastro?label=Followers&color=b49a54&style=for-the-badge" width="130" height="28" align="absmiddle" alt="Followers"/></a>
 </p>
 
-<br>
-
 </div>
-
-<br>
 
 ---
 
